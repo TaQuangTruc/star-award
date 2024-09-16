@@ -1,13 +1,16 @@
 ****** Hướng dẫn chạy ******
 B1: npm i 
-B2: node index.js 1000
+Xóa file not_fount
+Xóa file failure
+Xóa file success 
+
+B2: Lên sheet xem còn số nào trống, chỉnh dòng 6 file test.js thành số trống
+B3: node test.js để chạy
 
 ****************************
 
 
-Tài khoản tạo ra -> register-account.txt
-Tài khoản đã được thi -> test-account.txt
-Tài khoản bị lỗi -> error.txt
-Số tài khoản chạy được -> info.txt
+Nộp lại file success, failure lên folder 
+https://drive.google.com/drive/folders/1FzgbOChW_UAbrIPWeFhKfgVNn484dDdr
 
 
