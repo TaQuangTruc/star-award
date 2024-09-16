@@ -10,7 +10,7 @@ const accounts = readFile(`output/account_${indexFile}.txt`);
 const questionBank = readJsonFile("bankQuestion/questionBank.txt");
 
 (async () => {
-  let index = 0;
+  let index = 326;
   let count = 1;
 
   while (index < accounts.length) {
@@ -26,7 +26,7 @@ const questionBank = readJsonFile("bankQuestion/questionBank.txt");
 
     try {
       // Khởi tạo trình duyệt mới mỗi lần thi
-      browser = await puppeteer.launch({ headless: false });
+      browser = await puppeteer.launch();
       page = await browser.newPage();
 
       console.log(
@@ -54,8 +54,18 @@ const questionBank = readJsonFile("bankQuestion/questionBank.txt");
 
       // Đợi và nhấn nút login
       await page.waitForSelector("#loginBtnSubmit", { visible: true });
-      await Promise.all([page.click("#loginBtnSubmit"), delay(BASED * 7)]);
+      await Promise.all([
+        page.click("#loginBtnSubmit"),
+        page.waitForNavigation(),
+      ]);
+      // await page.screenshot({ fullPage: true, path: "page.png" });
 
+      const loginFailed = await page.$("div.alert-danger.text-red-600");
+
+      if (loginFailed) {
+        log("not_found", account);
+        continue;
+      }
       // Đợi và nhấn nút "Show Mock Test"
       await page.waitForSelector(".btnShowMockMultipleTest", { visible: true });
       await Promise.all([
