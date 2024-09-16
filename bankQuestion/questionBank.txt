@@ -1,0 +1,3046 @@
+[
+  {
+    "question": "How can people with diabetes manage their condition?",
+    "answer": "All the above"
+  },
+  {
+    "question": "Simply is a premium cooking oil brand which has 4 variants– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in _____– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin EAll is good for heart.Complete the sentence",
+    "answer": "Gamma Oryzanol"
+  },
+  {
+    "question": "What is the main cause of cancer?",
+    "answer": "All the above"
+  },
+  {
+    "question": "How long is it safe to store food in the refrigerator?",
+    "answer": "A few days"
+  },
+  {
+    "question": "That flowers are _______ everywhere is a sign of Spring.",
+    "answer": "coming out"
+  },
+  {
+    "question": "What should be done to prevent food poisoning?",
+    "answer": "Wash hands before eating and after handling food"
+  },
+  {
+    "question": "A special sale on stationery _______ on the website yesterday.",
+    "answer": "was announced"
+  },
+  {
+    "question": "The driver will make three _______ to deliver the package before it goes back to the warehouse.",
+    "answer": "attempts"
+  },
+  {
+    "question": "Which diet is recommended to reduce the risk of being overweight and obesity?",
+    "answer": "Balanced across all food groups"
+  },
+  {
+    "question": "What diseases can the HPV virus cause?",
+    "answer": "Both A and B are correct"
+  },
+  {
+    "question": "Don’t _______ to conclusions; we don’t yet know all the relevant facts.",
+    "answer": "jump"
+  },
+  {
+    "question": "Although Smithton’s second quarter was not _______, the company still plans to spend a lot on research.",
+    "answer": "profitable"
+  },
+  {
+    "question": "Through which of the following modes can HIV be transmitted?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "It’s not difficult _______ her to go to work because the office is near her home.",
+    "answer": "for"
+  },
+  {
+    "question": "She failed her driving test, _______ she practiced a lot.",
+    "answer": "despite"
+  },
+  {
+    "question": "Which of the following cooking oils is recommended for a heart-healthy diet?",
+    "answer": "Olive oil"
+  },
+  {
+    "question": "Can Chronic obstructive pulmonary disease (COPD) be cured?",
+    "answer": "No, but it can be managed"
+  },
+  {
+    "question": "Because of _______ weather, tonight’s concert has been canceled.",
+    "answer": "worsening"
+  },
+  {
+    "question": "Which sexually transmitted infection (STI) can cause infertility if not treated promptly?",
+    "answer": "Chlamydia"
+  },
+  {
+    "question": "Simply is a premium cooking oil brand which has 4 variants– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in ____All is good for heart.Complete the sentence",
+    "answer": "natural vitamin E"
+  },
+  {
+    "question": "Simply is a premium cooking oil brand which has 4 ______– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin EAll is good for heart.Complete the sentence",
+    "answer": "Variants"
+  },
+  {
+    "question": "What is the best way to prevent a stroke?",
+    "answer": "All the above"
+  },
+  {
+    "question": "Pantep works _______ with customers to build long-term partnerships",
+    "answer": "closely"
+  },
+  {
+    "question": "At Sloat Publishing, interns are given a _______ of jobs with more and more responsibility.",
+    "answer": "series"
+  },
+  {
+    "question": "A 30-year-old pregnant woman at 20 weeks’ gestation was diagnosed with a neural tube defect in the fetus via ultrasound. Which of the following is the most appropriate advice for the pregnant woman?",
+    "answer": "Transfer to a higher-level hospital for a second opinion"
+  },
+  {
+    "question": "Whenever Ms. White prepares a meal, her children help her _______ the table.",
+    "answer": "lay"
+  },
+  {
+    "question": "Returning home after the earthquake. Simon saw that his house was extremely _______.",
+    "answer": "messy"
+  },
+  {
+    "question": "What is the correct attitude to adopt when facing physical changes during puberty?",
+    "answer": "Seeking accurate information and sharing with a trusted person."
+  },
+  {
+    "question": "Which mineral is important for maintaining a healthy heart rhythm?",
+    "answer": "Magnesium"
+  },
+  {
+    "question": "What are typical symptoms of bipolar disorder?",
+    "answer": "All of the above answers"
+  },
+  {
+    "question": "It is uncommon for the director to _______power to his finance manager to make financial decisions for the company",
+    "answer": "delegate"
+  },
+  {
+    "question": "His invention showed that he understood what was going to happen in the future and proved he was _______ of his time.",
+    "answer": "ahead"
+  },
+  {
+    "question": "Our father suggested to _______ Da Nang for this summer holiday.",
+    "answer": "to go"
+  },
+  {
+    "question": "Eating too much sugar can lead to which of the following conditions, which is harmful to the heart?",
+    "answer": "High blood pressure"
+  },
+  {
+    "question": "What are the most common symptoms of anxiety disorders?",
+    "answer": "Excessive worry"
+  },
+  {
+    "question": "_______last year, the unpublished novel by Martin has attracted interest from several companies.",
+    "answer": "Discovering"
+  },
+  {
+    "question": "West provides or sponsors new education initiatives, _______ also getting directly involved.",
+    "answer": "preferably"
+  },
+  {
+    "question": "The power of the new laptop is _______ to any desktop computer at the same price.",
+    "answer": "comparable"
+  },
+  {
+    "question": "The company’s summer picnic is _______ held outside town, in Warren County Lakeside Park.",
+    "answer": "always"
+  },
+  {
+    "question": "Simply is a premium cooking oil brand which has 4 variants– Simply 100% pure Soybean oil’s rich in ____– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin EAll is good for heart.Complete the sentence",
+    "answer": "Omega 3-6-9"
+  },
+  {
+    "question": "Can tuberculosis affect organs other than the lungs?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "Cable TV revolutionized communications. _______, the very existence of that service is now threatened by satellites.",
+    "answer": "However"
+  },
+  {
+    "question": "The results of a recent study greatly_______ teenagers’ current preferences for leisure activities",
+    "answer": "illuminated"
+  },
+  {
+    "question": "Which of the following measures is most effective in preventing overweight and obesity?",
+    "answer": "Eating plenty of vegetables and fruits"
+  },
+  {
+    "question": "One _______ method for keeping our mind active is doing crossword puzzles.",
+    "answer": "popular"
+  },
+  {
+    "question": "The whole world is waiting _______ a vaccine against Covid19.",
+    "answer": "for"
+  },
+  {
+    "question": "Simply is a premium cooking oil brand & proud to be the only cooking oil brand recommended by Vietnam Heart Association.– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin ESimply will help to prevent bad cholesterol and protect your heart health. Which sentence is correct?",
+    "answer": "Gamma Oryzanol in Simply Rice bran oil is preventing cholesterol to protect heart health"
+  },
+  {
+    "question": "Which statement has the closest meaning to this sentence: “ It is compulsory for the students in this school to wear uniform.”?",
+    "answer": "The students in this school must wear uniform"
+  },
+  {
+    "question": "What psychotherapy is commonly used to treat bipolar disorder?",
+    "answer": "All of the above answers"
+  },
+  {
+    "question": "Low blood pressure can cause:",
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is usually the first sign of puberty in boys?",
+    "answer": "Testicle enlargement"
+  },
+  {
+    "question": "No one without a pass will be granted _______ to the conference.",
+    "answer": "admission"
+  },
+  {
+    "question": "How quickly should a person experiencing stroke symptoms seek medical help?",
+    "answer": "Immediately"
+  },
+  {
+    "question": "A 35-year-old primigravida, gravida 3, with a history of gestational diabetes mellitus and currently on insulin therapy, presents with which of the following clinical manifestations suggestive of poor glycemic control?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "Candidates are advised to dress formally to make a good _______ on job interviewers.",
+    "answer": "impression"
+  },
+  {
+    "question": "Peter: “I think students should learn two foreign languages when they are at school.”Khanh: “ _______. It helps them communicate with more people and broaden their minds.”",
+    "answer": "I quite agree with you"
+  },
+  {
+    "question": "Mr. Okada met _______ with the manager to talk about the project.",
+    "answer": "frequently"
+  },
+  {
+    "question": "BYF is good at making _______ promotional items to help companies promote their brand.",
+    "answer": "personalized"
+  },
+  {
+    "question": "If I _______ you, I would spend more time with the children.",
+    "answer": "were"
+  },
+  {
+    "question": "It is very important that doctors _______ as soon as there’s any change in the patient’s condition.",
+    "answer": "be notified"
+  },
+  {
+    "question": "All ID information has been _______ from this complaint letter so that it can be used for training.",
+    "answer": "removed"
+  },
+  {
+    "question": "Ms. Penner assured US that_______ work stopped during the power failure, production targets would be met.",
+    "answer": "her"
+  },
+  {
+    "question": "I woke up late for my interview because I _______ about it all night and didn’t get much sleep.",
+    "answer": "had been worrying"
+  },
+  {
+    "question": "_______ you wish to use the Internet, there is a code available at the reception desk.",
+    "answer": "Should"
+  },
+  {
+    "question": "Which of the following is not a risk factor for developing asthma?",
+    "answer": "High blood pressure"
+  },
+  {
+    "question": "Which of the following diseases can malnutrition lead to?",
+    "answer": "Rickets"
+  },
+  {
+    "question": "Restaurants in Rondale must follow all _______ health guidelines",
+    "answer": "local"
+  },
+  {
+    "question": "In which gender is gonorrhea most challenging to diagnose?",
+    "answer": "Females"
+  },
+  {
+    "question": "Ms. An will depend _______ team leaders to create programs.",
+    "answer": "upon"
+  },
+  {
+    "question": "From all the puppies, we _______ the smallest one to take home.",
+    "answer": "picked out"
+  },
+  {
+    "question": "Which of the following foods should pregnant women limit during pregnancy?",
+    "answer": "Tuna"
+  },
+  {
+    "question": "What is the classic symptom of malaria?",
+    "answer": "Cyclic fever"
+  },
+  {
+    "question": "Simply is a premium cooking oil brand which has 4 variants– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin ESimply is well-known for its ____ cooking oil.Complete the sentence",
+    "answer": "heart-healthy"
+  },
+  {
+    "question": "Pregnant women should limit the consumption of which type of food to reduce the risk of gestational diabetes.",
+    "answer": "Sweets and sugary foods"
+  },
+  {
+    "question": "What is the most common type of cancer in women?",
+    "answer": "Breast cancer"
+  },
+  {
+    "question": "Mr. Brennel _______ jobs in different parts of the company before he became president.",
+    "answer": "occupied"
+  },
+  {
+    "question": "_______, he will go out with his friends.",
+    "answer": "When Tony finishes his project"
+  },
+  {
+    "question": "Dr. Huertas received the _______ Brighton Award for her best work in plant biology.",
+    "answer": "prestigious"
+  },
+  {
+    "question": "Which of the following is a risk factor for cardiovascular diseases?",
+    "answer": "High blood pressure"
+  },
+  {
+    "question": "Mr. Montri politely _______ the job offer from Shipping Company.",
+    "answer": "declined"
+  },
+  {
+    "question": "The normal heart rate for an adult is approximately:",
+    "answer": "70-90 beats per minute"
+  },
+  {
+    "question": "What are the preventive measures against stretch marks during pregnancy?",
+    "answer": "Apply topical moisturizers frequently"
+  },
+  {
+    "question": "The more talkative she was, _______ uncomfortable we felt.",
+    "answer": "the more"
+  },
+  {
+    "question": "What type of exercise is most beneficial for heart health?",
+    "answer": "Aerobic exercise"
+  },
+  {
+    "question": "Which of the following drugs is commonly used to stimulate ovulation in infertility treatment?",
+    "answer": "Clomiphene"
+  },
+  {
+    "question": "What is the most common complication of diabetes?",
+    "answer": "All the above"
+  },
+  {
+    "question": "Most of the manufacturing sector has reported higher profits as a result of the trade _______.",
+    "answer": "agreement"
+  },
+  {
+    "question": "Cook the meat for 30 minutes to ensure _______ readiness to be eaten.",
+    "answer": "its"
+  },
+  {
+    "question": "How does drinking too much alcohol affect the heart?",
+    "answer": "Increases blood pressure and the risk of heart disease"
+  },
+  {
+    "question": "Nam is trying to break the _______ of staying up too late.",
+    "answer": "habit"
+  },
+  {
+    "question": "Which of the following foods is most likely to cause food safety issues if not cooked thoroughly?",
+    "answer": "Raw meat and seafood"
+  },
+  {
+    "question": "Providing precise welding to a _______ range of industries, Mistone recently celebrated 100 years of service in Quebec.",
+    "answer": "wide"
+  },
+  {
+    "question": "_______ Jemburger opened its newest store, the first 100 customers got free hamburgers.",
+    "answer": "When"
+  },
+  {
+    "question": "_______ that he only started learning English 2 years ago, his English is excellent.",
+    "answer": "Considering"
+  },
+  {
+    "question": "Which of the following is a common symptom of asthma?",
+    "answer": "Coughing"
+  },
+  {
+    "question": "Of all truck models today, it is hard to decide _______ would best fit your company’s needs.",
+    "answer": "which"
+  },
+  {
+    "question": "It’s not a pleasant feeling to discover you’ve been _______ by a close friend.",
+    "answer": "deceived deliberately"
+  },
+  {
+    "question": "She acted in the _______ that she was making the right decision.",
+    "answer": "belief"
+  },
+  {
+    "question": "Which statement best combines these sentences: “He didn’t try his best. He didn’t make much progress.”?",
+    "answer": "If he had tried his best, he could have made a lot of progress."
+  },
+  {
+    "question": "Which of the following fruits is recommended to reduce the risk of hypertension?",
+    "answer": "Banana"
+  },
+  {
+    "question": "For individuals with diabetes, which type of food is the best choice?",
+    "answer": "Foods rich in fiber and protein"
+  },
+  {
+    "question": "To stay on schedule, editors must send all _______ to the book to the authors by Friday.",
+    "answer": "revisions"
+  },
+  {
+    "question": "Which test is commonly used to diagnose heart conditions?",
+    "answer": "ECG (Electrocardiogram)"
+  },
+  {
+    "question": "Despite their normal form, some of the documents _______ on silk that were found at an archaeological site in China, were folded into rectangles.",
+    "answer": "were written"
+  },
+  {
+    "question": "Which of the following foods should be avoided in the diet of pregnant women to reduce the risk of bacterial infections?",
+    "answer": "Raw or undercooked eggs"
+  },
+  {
+    "question": "_______, he was determined to continue to climb up the mountain.",
+    "answer": "However tired"
+  },
+  {
+    "question": "The conference fee _______ access to more than twenty workshops.",
+    "answer": "includes"
+  },
+  {
+    "question": "Most managers liked the new office layout, although _______ worried about the cost.",
+    "answer": "one"
+  },
+  {
+    "question": "This new app gives _______ calendar updates, so people will never miss an appointment.",
+    "answer": "continual"
+  },
+  {
+    "question": "A record number of appliance _______ came into the Port of Reece last month.",
+    "answer": "shipments"
+  },
+  {
+    "question": "Ms. Durkin asked for people to help _______with the program",
+    "answer": "her"
+  },
+  {
+    "question": "The museum plans to show a collection of Lucia’s most _______ sculptures.",
+    "answer": "innovative"
+  },
+  {
+    "question": "Researchers are making enormous progress in understanding _______ and what causes it.",
+    "answer": "what a tsunami is"
+  },
+  {
+    "question": "Young people should help the old _______ the bus.",
+    "answer": "get on"
+  },
+  {
+    "question": "John thinks Linda is going to take a gap year after graduating, _______?",
+    "answer": "isn't she"
+  },
+  {
+    "question": "What is the purpose of radiation therapy?",
+    "answer": "All the above"
+  },
+  {
+    "question": "How can the risk of influenza transmission in public settings be reduced?",
+    "answer": "Full influenza vaccination"
+  },
+  {
+    "question": "Peter is an ambitious man who will never _______ till he gets what he wants.",
+    "answer": "give up"
+  },
+  {
+    "question": "A survey was _______ to study the effects of smoking on young adults.",
+    "answer": "conducted"
+  },
+  {
+    "question": "What is the consequence of consuming too much sugar for someone with diabetes?",
+    "answer": "Increased risk of complications and difficulty managing blood sugar"
+  },
+  {
+    "question": "We could tolerate your noisy parties time and again, but throwing bottles out of the window was beyond the_______ .",
+    "answer": "pale"
+  },
+  {
+    "question": "Andrzej’s website will be online _______ we finish organizing his work.",
+    "answer": "once"
+  },
+  {
+    "question": "Which nutrient is often lacking in a diet that leads to malnutrition?",
+    "answer": "Protein"
+  },
+  {
+    "question": "As they remembered _______ about the danger of getting lost in the forest, the tourists closely followed the tour guide.",
+    "answer": "being warned"
+  },
+  {
+    "question": "For a couple who doesn’t want any more children, which birth control method is the most suitable?",
+    "answer": "Sterilization"
+  },
+  {
+    "question": "Which of the following foods need to be thoroughly cooked before eating?",
+    "answer": "Chicken"
+  },
+  {
+    "question": "Upon entering the body, HIV compromises the immune system, rendering the host susceptible to opportunistic infections. These secondary illnesses are termed",
+    "answer": "Opportunistic diseases"
+  },
+  {
+    "question": "Which organ in the body has the function of filtering blood?",
+    "answer": "Kidney"
+  },
+  {
+    "question": "The project is so difficult, _______?",
+    "answer": "isn't it"
+  },
+  {
+    "question": "Which statement has the closest meaning to this sentence: “She is more responsible than her brother.”?",
+    "answer": "Her brother isn't as responsible as she is."
+  },
+  {
+    "question": "To get a reminder when payment is due, create an online account _______ ATBank.",
+    "answer": "with"
+  },
+  {
+    "question": "What should be done to prevent worm infections?",
+    "answer": "Wash hands before eating and after using the bathroom"
+  },
+  {
+    "question": "What is the main cause of food poisoning?",
+    "answer": "Food contaminated with bacteria or viruses"
+  },
+  {
+    "question": "Action films with big stars tend to _______ great public attention.",
+    "answer": "attract"
+  },
+  {
+    "question": "The Internet connection will be closely monitored_______ the source of the slowdown can be confirmed.",
+    "answer": "until"
+  },
+  {
+    "question": "_______ in the first draft of the proposal will not necessarily be in the final draft.",
+    "answer": "What appears"
+  },
+  {
+    "question": "Being overweight and obese can lead to which of the following diseases?",
+    "answer": "Type 2 diabetes"
+  },
+  {
+    "question": "The Association wants to keep the costs _______ for its certification programs.",
+    "answer": "affordable"
+  },
+  {
+    "question": "The team’s work on the marketing plan was very _______ recognized.",
+    "answer": "favorably"
+  },
+  {
+    "question": "Which statement has the closest meaning to this sentence: “It was wrong of you to criticise your son in front of his friends.”?",
+    "answer": "You shouldn’t have criticised your son in front of his friends."
+  },
+  {
+    "question": "Because of customer _______, Lopez will release organic soaps.",
+    "answer": "demand"
+  },
+  {
+    "question": "What are the benefits of exercise for people with diabetes?",
+    "answer": "Improves insulin sensitivity"
+  },
+  {
+    "question": "Please provide the exact dimensions of the custom fence you would like built, and your quote will be adjusted_______.",
+    "answer": "accordingly"
+  },
+  {
+    "question": "What are the characteristics of the manic phase in bipolar disorder?",
+    "answer": "All of the above answers"
+  },
+  {
+    "question": "What is the most common symptom of a heart attack?",
+    "answer": "Chest pain"
+  },
+  {
+    "question": "To protect the heart, we should limit the consumption of which of the following foods?",
+    "answer": "Processed meat"
+  },
+  {
+    "question": "The most frequent complications associated with emergency contraception include:",
+    "answer": "All of the above"
+  },
+  {
+    "question": "When does seasonal influenza typically occur during the year?",
+    "answer": "Winter"
+  },
+  {
+    "question": "Any furniture bought in February will be delivered _______ five business days.",
+    "answer": "within"
+  },
+  {
+    "question": "With a _______ of satisfaction on his face, Keith received his degree from the principal.",
+    "answer": "beam"
+  },
+  {
+    "question": "In such a plight _______ that we had no choice but to radio for help.",
+    "answer": "we found ourselves"
+  },
+  {
+    "question": "What is a common symptom of syphilis",
+    "answer": "Painless, firm sores with a raised border"
+  },
+  {
+    "question": "Which of the following non-communicable diseases is known to significantly increase the risk of stroke and cardiovascular disease?",
+    "answer": "Diabetes"
+  },
+  {
+    "question": "Togo and Ghana are making _______ to address forest landscape restoration and sustainable wood energy.",
+    "answer": "measures"
+  },
+  {
+    "question": "Pregnant women who consume excessive amounts of coffee may risk the following complications for their fetus",
+    "answer": "Miscarriage"
+  },
+  {
+    "question": "It was at the press conference _______ the truth about his corporation.",
+    "answer": "that the director told"
+  },
+  {
+    "question": "The book _______ you gave me is very interesting.",
+    "answer": "which"
+  },
+  {
+    "question": "The Convention will have _______ known from different countries in the region.",
+    "answer": "widely"
+  },
+  {
+    "question": "_______ space in the bathroom was small, the contractor was able to fit in two sinks.",
+    "answer": "Even though"
+  },
+  {
+    "question": "What is the most common symptom of gonorrhea in males",
+    "answer": "All of the above"
+  },
+  {
+    "question": "We will inform you _______.",
+    "answer": "as soon as we have the interview result"
+  },
+  {
+    "question": "He is looking over the budget_______ given by the Financial Planning department.",
+    "answer": "requirements"
+  },
+  {
+    "question": "_______ the popularity of T39 speaker, production will increase five times next month.",
+    "answer": "As a result of"
+  },
+  {
+    "question": "Malnutrition is most severe in which age group?",
+    "answer": "Infants and young children"
+  },
+  {
+    "question": "Simply is a premium cooking oil brand which has 4 variants– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in ____– Simply 100% pure Sunflower oil ‘s rich in natural vitamin EAll is good for heart.Complete the sentence",
+    "answer": "Unsaturated fat"
+  },
+  {
+    "question": "I like this _______ song because it reminds me of my schooldays.",
+    "answer": "beautiful"
+  },
+  {
+    "question": "There is no excuse for your late submission! You_______ the report by last Friday.",
+    "answer": "should have finished"
+  },
+  {
+    "question": "Hong is _______ student in her class.",
+    "answer": "the tallest"
+  },
+  {
+    "question": "If he accepted the promotion, it would involve him being _______ to the head office in France.",
+    "answer": "transferred"
+  },
+  {
+    "question": "Please include the serial number of your product in any _______ with customer service.",
+    "answer": "correspondence"
+  },
+  {
+    "question": "How effective is the rhythm method at preventing pregnancy? Why?",
+    "answer": "It's not foolproof because no natural method is 100% effective"
+  },
+  {
+    "question": "Which statement best combines these sentences: “The boy band had just finished their first live performance. All the audiences at the theatre gave them a loud round of applause.”?",
+    "answer": "Barely had the boy band finished their first live performance when all the audiences at the theatre gave them a loud round of applause"
+  },
+  {
+    "question": "What is the most effective measure to reduce the risk of contracting COVID-19?",
+    "answer": "Getting vaccinated"
+  },
+  {
+    "question": "As a _______ boy, Jack enjoys spending his free time going out with friends.",
+    "answer": "outgoing"
+  },
+  {
+    "question": "Managing inventory and storage strategies _______ the duty of the supply chain manager.",
+    "answer": "fall"
+  },
+  {
+    "question": "A common risk factor for developing depression is:",
+    "answer": "Prolonged stress and pressure"
+  },
+  {
+    "question": "All communications must be approved before they can be shared _______.",
+    "answer": "externally"
+  },
+  {
+    "question": "The building inspector declared the new facility_______ sound and ready to open.",
+    "answer": "structurally"
+  },
+  {
+    "question": "Choose the correct word to fill in the blank in the following sentence: Syphilis is caused by a type of…",
+    "answer": "spirochete"
+  },
+  {
+    "question": "The chief officer has _______ the importance of attracting new customers.",
+    "answer": "emphasized"
+  },
+  {
+    "question": "Simply is a premium cooking oil brand which has 4 variants– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin ESimply will help to prevent bad cholesterol and ____ your heart health. Complete the sentence",
+    "answer": "Protect"
+  },
+  {
+    "question": "For financial assurance, the couple have _______ a lot of money for their old age.",
+    "answer": "saved"
+  },
+  {
+    "question": "During IVF, when is the ICSI technique applied?",
+    "answer": "When sperm count is low"
+  },
+  {
+    "question": "Several experts will present the results of their _______ on June 23.",
+    "answer": "investigation"
+  },
+  {
+    "question": "Which statement best combines these sentences: “The newly advertised product had just been on sale. Customers realised that it had lots of defects.”",
+    "answer": "Hardly had the newly advertised product been on sale when customers realised that it had lots of defects."
+  },
+  {
+    "question": "Simply is a premium cooking oil brand & proud to be the only cooking oil brand recommended by Vietnam Heart Association.– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin ESimply will help to prevent bad cholesterol and protect your heart health. Which sentence is correct?",
+    "answer": "Simply has 4 variants: Soya, rice bran, sunflower, canola oil"
+  },
+  {
+    "question": "What is anxiety disorder?",
+    "answer": "A mental disorder characterized by excessive and prolonged anxiety and fear"
+  },
+  {
+    "question": "When should you take your loved one to the doctor if you suspect they have post-traumatic stress disorder?",
+    "answer": "All of the above answers"
+  },
+  {
+    "question": "A _______ way to support economic growth in Ludlow City is to shop at area businesses",
+    "answer": "practical"
+  },
+  {
+    "question": "Which of the following is NOT a cause of malnutrition?",
+    "answer": "Proper physical exercise"
+  },
+  {
+    "question": "Which measure helps ensure food safety when shopping for groceries?",
+    "answer": "Buying fresh food from reliable sources"
+  },
+  {
+    "question": "Schizophrenia typically requires treatment:",
+    "answer": "A combination of antipsychotic medication and psychotherapy"
+  },
+  {
+    "question": "Binh is 1.80 meters tall, and Linh is 1.65 meters tall. Binh is _______ Linh.",
+    "answer": "taller than"
+  },
+  {
+    "question": "Most women expect _______ more help with the housework from their husbands.",
+    "answer": "to get"
+  },
+  {
+    "question": "To do _______ professionally requires a lot of skills.",
+    "answer": "photography"
+  },
+  {
+    "question": "Mr. Winkel’s _______ responsibilities include checking and reviewing finances.",
+    "answer": "accounting"
+  },
+  {
+    "question": "One of Consulting’s goals is to improve the relationship _______ salespeople and their customers.",
+    "answer": "between"
+  },
+  {
+    "question": "Twenty years serving the business as second in _______ to his father has helped him gain precious experience for his career",
+    "answer": "command"
+  },
+  {
+    "question": "What measures are recommended to prevent mother-to-child transmission of HIV?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "WRUZ Radio will broadcast a new show _______ to business news.",
+    "answer": "dedicated"
+  },
+  {
+    "question": "What is the main cause of malnutrition?",
+    "answer": "Lack of essential nutrients"
+  },
+  {
+    "question": "It stands to reason that Jason _______ the exam because of his working hard during the term.",
+    "answer": "passed"
+  },
+  {
+    "question": "How often should pregnant women have prenatal check-ups during the first trimester",
+    "answer": "Once a month"
+  },
+  {
+    "question": "Which statement has the closest meaning to this sentence: Visitors are not permitted to enter this area.?",
+    "answer": "Visitors mustn't enter this area."
+  },
+  {
+    "question": "Please contact the product distributor, not the retail store, if_______ need some parts.",
+    "answer": "you"
+  },
+  {
+    "question": "The arguments Prof. Parker made were controversial, and some scholars were _______ with him.",
+    "answer": "expressing doubt"
+  },
+  {
+    "question": "What does an electrocardiogram (ECG) measure?",
+    "answer": "The electrical activity of the heart"
+  },
+  {
+    "question": "Fraud detectives are investigating the company, three of _______ senior executives have already been arrested.",
+    "answer": "whose"
+  },
+  {
+    "question": "How does a woman’s age affect her fertility",
+    "answer": "Affects the quantity and quality of eggs"
+  },
+  {
+    "question": "It’s not my _______ to tell you how to run your life, but I think you should settle down and have a family.",
+    "answer": "job"
+  },
+  {
+    "question": "Which statement best combines these sentences: “The gold ring was expensive. I couldn’t afford to buy it.”?",
+    "answer": "If the gold ring had been less expensive, I could have afforded to buy it."
+  },
+  {
+    "question": "Bill’s mother won’t let him go out with his friends _______.",
+    "answer": "until he has finished his homework"
+  },
+  {
+    "question": "The Oxford Bridge took a _______short amount of time to be repaired.",
+    "answer": "surprisingly"
+  },
+  {
+    "question": "What is the recommended sleeping position for pregnant women?",
+    "answer": "Lying on your left side"
+  },
+  {
+    "question": "Ms. Hyun is reviewing the training manual to see if updates_______.",
+    "answer": "are needed"
+  },
+  {
+    "question": "Please send each request _______ according to its category.",
+    "answer": "separately"
+  },
+  {
+    "question": "What should you do to manage your weight?",
+    "answer": "Monitor daily calorie intake"
+  },
+  {
+    "question": "When the bank president retired, the common _______ was that the vice president would take over.",
+    "answer": "assumption"
+  },
+  {
+    "question": "Wrazen Associates _______ a summary with a list of recommendations as a normal part of any audit.",
+    "answer": "issues"
+  },
+  {
+    "question": "What is the most common symptom of worm infections in children?",
+    "answer": "Stomach pain and itching around the anus"
+  },
+  {
+    "question": "Simply is a premium cooking oil brand that has 4 variants: Simply 100% pure Soybean oil, Simply 100% pure Rice bran oil, Simply 100% pure Canola oil, Simply 100% pure Sunflower oil, all is good for heart.The statement: Simply is pure cooking oil brand with main functional benefit is good for heart, all is from 100% natural ingredients.Please choose True, False or not given for the information in statement above",
+    "answer": "TRUE"
+  },
+  {
+    "question": "What age does puberty typically begin in girls?",
+    "answer": "10-12 years old"
+  },
+  {
+    "question": "Jane has been trying to solve this problem all week, but she still hasn’t been able to _______.",
+    "answer": "crack"
+  },
+  {
+    "question": "A wooden bridge over the pond _______ to the hotel’s golf course.",
+    "answer": "leads"
+  },
+  {
+    "question": "This advertising plan is the most _______ we have seen so far.",
+    "answer": "innovative"
+  },
+  {
+    "question": "What is the primary cause of Pelvic Inflammatory Disease (PID)?",
+    "answer": "Infection caused by Chlamydia bacteria"
+  },
+  {
+    "question": "The prime minister welcomed foreign diplomats _______ a luncheon today.",
+    "answer": "at"
+  },
+  {
+    "question": "What is the leading cause of death worldwide?",
+    "answer": "Heart disease"
+  },
+  {
+    "question": "My opinion is that they don’t know what to do and are merely playing _______ time.",
+    "answer": "for"
+  },
+  {
+    "question": "Which statement has the closest meaning to this sentence: “How long have you lived here, Lucy? asked Jack”?",
+    "answer": "Jack asked Lucy how long she had lived there."
+  },
+  {
+    "question": "He got a heavy _______ for breaking the traffic regulations yesterday",
+    "answer": "fine"
+  },
+  {
+    "question": "Which of the following foods is rich in fiber, helping to lower blood cholesterol?",
+    "answer": "Oatmeal"
+  },
+  {
+    "question": "Bipolar disorder commonly includes phases of:",
+    "answer": "Both depressive and manic episodes"
+  },
+  {
+    "question": "Some chemicals can be used for cleaning surfaces, _______ these chemicals affect the air quality and cause health problems.",
+    "answer": "but"
+  },
+  {
+    "question": "Written permission must _______ before using Thavor’s logo.",
+    "answer": "be obtained"
+  },
+  {
+    "question": "The children enjoy _______ about plants and how they grow.",
+    "answer": "studying"
+  },
+  {
+    "question": "A: “I’m surprised he didn’t get the job.”B: “He might have _______ a better interview.”",
+    "answer": "had"
+  },
+  {
+    "question": "The long-awaited camera will finally be _______ at a product show on August 16.",
+    "answer": "unveiled"
+  },
+  {
+    "question": "Which of the following foods is good for the heart?",
+    "answer": "Dark green vegetables"
+  },
+  {
+    "question": "Which of the following is a heart-healthy grain?",
+    "answer": "Brown rice"
+  },
+  {
+    "question": "_______ put together your product, first read all instructions.",
+    "answer": "In order to"
+  },
+  {
+    "question": "How is chickenpox primarily transmitted?",
+    "answer": "Airborne droplets"
+  },
+  {
+    "question": "The competition _______; but you failed to enter it.",
+    "answer": "could have provided you with opportunities"
+  },
+  {
+    "question": "Which preventive method effectively reduces the risk of malaria?",
+    "answer": "Using insecticide-treated mosquito nets"
+  },
+  {
+    "question": "Malnutrition can affect which organ in the body?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the primary cause of lung cancer?",
+    "answer": "Smoking"
+  },
+  {
+    "question": "Who should receive an annual influenza vaccination?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is NOT an emergency contraceptive method?",
+    "answer": "Getting a contraceptive injection"
+  },
+  {
+    "question": "Some of the studies show positive results, _______ others do not.",
+    "answer": "whereas"
+  },
+  {
+    "question": "He is often _______ last person to leave the office.",
+    "answer": "the"
+  },
+  {
+    "question": "Simply is a premium cooking oil brand, which has 4 variants– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin EUsing premium cooking oil as Simply which helps to ____ bad cholesterol and protect your heart health. Complete the sentense",
+    "answer": "Reduce"
+  },
+  {
+    "question": "Heavy rain makes driving on the road very _______.",
+    "answer": "dangerous"
+  },
+  {
+    "question": "Which malaria preventive measure is ineffective?",
+    "answer": "Using non-treated mosquito nets"
+  },
+  {
+    "question": "What routine measure helps most effectively in preventing hepatitis C in healthcare settings?",
+    "answer": "Using gloves and protective equipment"
+  },
+  {
+    "question": "What is a blood clot?",
+    "answer": "A solid mass formed in a blood vessel"
+  },
+  {
+    "question": "McKay fans who are _______ to the writing style will be surprised by her latest biography.",
+    "answer": "accustomed"
+  },
+  {
+    "question": "You _______ use your mobile phone during the test. It’s against the rules.",
+    "answer": "mustn't"
+  },
+  {
+    "question": "He had some business to do in a foreign country, but his company didn’t _______ responsibility to pay for his expenses.",
+    "answer": "accept"
+  },
+  {
+    "question": "Sinee’s Catering is always _______ to deliver great food to your special events.",
+    "answer": "ready"
+  },
+  {
+    "question": "John _______ next summer on an archeological dig in Egypt.",
+    "answer": "is hoping to spend"
+  },
+  {
+    "question": "_______ all of his homework, he went out with his friends until 10 p.m.",
+    "answer": "Having finished"
+  },
+  {
+    "question": "Before work can begin at the construction site, the _______ permit applications must be processed",
+    "answer": "relevant"
+  },
+  {
+    "question": "_______ the proposal was unclear, it was rejected.",
+    "answer": "Because"
+  },
+  {
+    "question": "What type of virus causes influenza?",
+    "answer": "Influenza virus"
+  },
+  {
+    "question": "Which of the following is a natural method of contraception?",
+    "answer": "Having sex during the safe period."
+  },
+  {
+    "question": "John can’t hang out with his friends at the weekend since he needs to hit _______ to prepare for the upcoming exams",
+    "answer": "the books"
+  },
+  {
+    "question": "What is the primary risk factor contributing to hypertension?",
+    "answer": "Excessive salt intake"
+  },
+  {
+    "question": "At last, he realised that he had made a mistake when he saw the _______ answer on the board.",
+    "answer": "wrong"
+  },
+  {
+    "question": "Barretto had no _______ to being considered for the CEO position.",
+    "answer": "objection"
+  },
+  {
+    "question": "What is the most common symptom of food poisoning?",
+    "answer": "Stomach pain and diarrhea"
+  },
+  {
+    "question": "_______ of the new train station will start in late September.",
+    "answer": "Construction"
+  },
+  {
+    "question": "What is the most effective method to prevent sexually transmitted infections?",
+    "answer": "Using condoms"
+  },
+  {
+    "question": "They deliver the freshest fish possible thanks to new _______ and shipping methods.",
+    "answer": "preservation"
+  },
+  {
+    "question": "It was Pete who _______ the initiative in introducing our guests to the host.",
+    "answer": "took"
+  },
+  {
+    "question": "What is the most common cause of COPD?",
+    "answer": "Smoking"
+  },
+  {
+    "question": "Tuan: “Sorry I’m late, Ha.”Ha: “_______.”",
+    "answer": "Never mind."
+  },
+  {
+    "question": "It’s no good _______a fuss and arguing over such an unimportant issue",
+    "answer": "making"
+  },
+  {
+    "question": "Which of the following factors increases the risk of breast cancer in women?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the most effective method for preventing influenza?",
+    "answer": "Annual influenza vaccination"
+  },
+  {
+    "question": "Helen: “This is the best field trip we’ve ever had.”Sarah: “_______. Everyone enjoyed it to the fullest.”",
+    "answer": "You're right"
+  },
+  {
+    "question": "I took _______ with him over his interpretation of the instructions.",
+    "answer": "issue"
+  },
+  {
+    "question": "Jennson hired an _______ new expert last month.",
+    "answer": "exceptional"
+  },
+  {
+    "question": "The environmental group Greenpeace has done a lot of _______ to change government policies.",
+    "answer": "pressure"
+  },
+  {
+    "question": "For whom should the influenza vaccine be administered?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "We would sooner Mr. Tran _______ us the urgent information the other night.",
+    "answer": "had sent"
+  },
+  {
+    "question": "Choosing the best anti-virus software is rarely easy, _______ it is important to get expert advice.",
+    "answer": "so"
+  },
+  {
+    "question": "I picked up some holiday brochures _______ around the table at the travel agency",
+    "answer": "lying"
+  },
+  {
+    "question": "It’s about time you stopped _______ and started working seriously. Your final exams are coming.",
+    "answer": "being lazy"
+  },
+  {
+    "question": "It was the first time we _______ in an exotic ethnic restaurant.",
+    "answer": "had eaten"
+  },
+  {
+    "question": "The project timeline was made longer to _______ input from the environmental commission.",
+    "answer": "allow for"
+  },
+  {
+    "question": "Which statement has the closest meaning to this sentence: “She last phoned her close friend two months ago.”?",
+    "answer": "She hasn't phoned her close friend for two months."
+  },
+  {
+    "question": "Which symptom is not common in hepatitis B patients?",
+    "answer": "Chest pain"
+  },
+  {
+    "question": "You like the food here,_______?",
+    "answer": "don't you"
+  },
+  {
+    "question": "Which of the following foods helps reduce the risk of hypertension?",
+    "answer": "Fresh fruits"
+  },
+  {
+    "question": "Exceptional service is what sets our hotels apart from those of our _______.",
+    "answer": "competition"
+  },
+  {
+    "question": "_______ through a telescope, Venus appears to go through changes in sizes and shapes.",
+    "answer": "When seen"
+  },
+  {
+    "question": "Ms. Tillinghast has received several awards _______ her innovative ideas.",
+    "answer": "for"
+  },
+  {
+    "question": "Ms. Delgado wants to meet with all loan officers _______ looking at more loan applications.",
+    "answer": "before"
+  },
+  {
+    "question": "Which of the following foods is rich in calcium, helping to strengthen the bones of both mother and baby?",
+    "answer": "Milk and dairy products"
+  },
+  {
+    "question": "The staff must _______ as much data as possible before planning the next campaign.",
+    "answer": "compile"
+  },
+  {
+    "question": "Which statement best combines these sentences: “Mike doesn’t feel well today. He can’t go out with his friends.”?",
+    "answer": "Mike wishes he felt well today so that he could go out with his friends."
+  },
+  {
+    "question": "Prices here are _______ lower than at other online bookstores",
+    "answer": "significantly"
+  },
+  {
+    "question": "_______ a holiday is on Thursday, the company lets employees take off Friday too.",
+    "answer": "Whenever"
+  },
+  {
+    "question": "You can get information _______ the artwork at the reception desk.",
+    "answer": "about"
+  },
+  {
+    "question": "Who is recommended to receive the hepatitis B vaccine?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which lifestyle change is most effective in managing obesity?",
+    "answer": "Increasing physical activity"
+  },
+  {
+    "question": "Psychologists have found that the number of social contacts we have _______ only reason for loneliness.",
+    "answer": "is not the"
+  },
+  {
+    "question": "What is the main function of the heart in the circulatory system?",
+    "answer": "To pump blood throughout the body"
+  },
+  {
+    "question": "Which of the following is a common symptom of a stroke?",
+    "answer": "All the above"
+  },
+  {
+    "question": "Online shoppers who wait a long time for their orders tend _______ the business low ratings.",
+    "answer": "to give"
+  },
+  {
+    "question": "None of Shakespeare’s plays _______ in its original manuscript form.",
+    "answer": "survives"
+  },
+  {
+    "question": "Survey _______ study the layout of land both above and below the ground.",
+    "answer": "technicians"
+  },
+  {
+    "question": "I don’t know if Ash would be right for the job; he’s a bit of an unknown _______.",
+    "answer": "quantity"
+  },
+  {
+    "question": "What should you do if you have questions about reproductive health?",
+    "answer": "See a doctor"
+  },
+  {
+    "question": "_______ a job in a small company, he turned it down and kept on applying for a more suitable one.",
+    "answer": "Offered"
+  },
+  {
+    "question": "Once they have completed three years of employment, the workers at Intel_______ additional vacation time.",
+    "answer": "earn"
+  },
+  {
+    "question": "A new supermarket _______ in the centre of the town last week.",
+    "answer": "was opened"
+  },
+  {
+    "question": "What should be done to ensure food safety when preparing meals?",
+    "answer": "Use separate knives and cutting boards for raw and cooked food"
+  },
+  {
+    "question": "Table reservations for _______ greater than ten must be made at least one day in advance.",
+    "answer": "parties"
+  },
+  {
+    "question": "These measures have been _______ in order to increase the company’s profit.",
+    "answer": "taken"
+  },
+  {
+    "question": "The Sun Hotel is a great place for conferences because of its _______ to the airport.",
+    "answer": "proximity"
+  },
+  {
+    "question": "RZT will make its lab twice as big to _______ the fast growth.",
+    "answer": "accommodate"
+  },
+  {
+    "question": "What is the primary cause of influenza (flu)?",
+    "answer": "Influenza virus"
+  },
+  {
+    "question": "Having your private life examined closely by the public is regarded as part and_______ of being a celebrity",
+    "answer": "parcel"
+  },
+  {
+    "question": "We had been walking for over 20 miles, and we were _______ exhausted.",
+    "answer": "thoroughly"
+  },
+  {
+    "question": "Feel free to come to us at all _______ if you need our advice.",
+    "answer": "time"
+  },
+  {
+    "question": "What serious complications can malaria cause?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "The journalist is talking about having a new _______ published in the local newspaper next week",
+    "answer": "article"
+  },
+  {
+    "question": "The stores are open every day from 8:00 A.M. to 4:00 P.M. _______ on Sundays.",
+    "answer": "except"
+  },
+  {
+    "question": "Even employees who _______ were not familiar with the new software program have found it easy to use",
+    "answer": "initially"
+  },
+  {
+    "question": "New laws to _______ the wildlife in this area have been passed.",
+    "answer": "protect"
+  },
+  {
+    "question": "A major risk factor for obesity is:",
+    "answer": "A high-calorie diet with low fiber intake"
+  },
+  {
+    "question": "To protect against hackers, security experts advise longer passwords _______ combinations of upper and lowercase letters, as well as numbers.",
+    "answer": "with"
+  },
+  {
+    "question": "A campaign was made to target _______ of the groups we identified.",
+    "answer": "each"
+  },
+  {
+    "question": "I can’t stand the pressure at work any more. There’s _______ a stress-free job.",
+    "answer": "no such thing as"
+  },
+  {
+    "question": "Jenny: “Why don’t you come over and see the new film with me?” Kathy: “ _______ ”",
+    "answer": "Great! I'd love to."
+  },
+  {
+    "question": "Before you decide to purchase that car, it is crucial that you should look into it carefully. It’s unwise to buy a pig _______.",
+    "answer": "in a poke"
+  },
+  {
+    "question": "All produce is refrigerated _______ upon pickup to prevent spoilage.",
+    "answer": "promptly"
+  },
+  {
+    "question": "Washing hands with soap can help prevent the spread of which disease?",
+    "answer": "Influenza"
+  },
+  {
+    "question": "Ann: “I think children should be paid for doing the housework.” Peter: “ _______. It’s their duty in the family.”",
+    "answer": "I don't think so"
+  },
+  {
+    "question": "_______ food critics recommend ZJ’s Bistro, most local residents prefer Dree’s Cafe.",
+    "answer": "Although"
+  },
+  {
+    "question": "Which of the following foods is considered beneficial in cancer prevention?",
+    "answer": "Fresh fruits and vegetables"
+  },
+  {
+    "question": "Who needs close monitoring when exposed to a tuberculosis patient?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "It turned out that we _______ to the airport as the flight was delayed by several hours.",
+    "answer": "needn't have rushed"
+  },
+  {
+    "question": "_______ badly the high-speed printer may be working, it is still making good enough copies for us.",
+    "answer": "However"
+  },
+  {
+    "question": "If Martin were here now, he _______ us to solve this difficult problem",
+    "answer": "would help"
+  },
+  {
+    "question": "Only when I had the information _______.",
+    "answer": "did I make further comment about the project"
+  },
+  {
+    "question": "Which statement has the closest meaning to this sentence: “My father likes reading newspapers more than watching TV.”?",
+    "answer": "My father doesn't like watching TV as much as reading newspapers."
+  },
+  {
+    "question": "Here, _______ help members find quality products at the best prices.",
+    "answer": "we"
+  },
+  {
+    "question": "The students _______ the topic when the bell rang.",
+    "answer": "were discussing"
+  },
+  {
+    "question": "Which of the following is not a symptom of depression?",
+    "answer": "Sleep easily"
+  },
+  {
+    "question": "Sewerd is closing some of its showrooms because customers are _______ ordering furniture online.",
+    "answer": "increasing"
+  },
+  {
+    "question": "A: “Were you told to get dinner ready?” B: “No, I did it of my own _______.”",
+    "answer": "accord"
+  },
+  {
+    "question": "_______ the book again and again, I finally understood what the author meant.",
+    "answer": "Having read"
+  },
+  {
+    "question": "Simply is a premium cooking oil brand that has 4 variants: Simply 100% pure Soybean oil, Simply 100% pure Rice bran oil, Simply 100% pure Canola oil, Simply 100% pure Sunflower oil, all is good for heart. The statement: Simply is pure cooking oil brand with main functional benefit is good for heart. Please choose True, False or not given for the information in statement above:",
+    "answer": "TRUE"
+  },
+  {
+    "question": "Depending on your respond, we _______ you to get more information.",
+    "answer": "may call"
+  },
+  {
+    "question": "The presenter started his speech with a few _______ jokes to build rapport with the audience",
+    "answer": "light-hearted"
+  },
+  {
+    "question": "How often should deworming be done to ensure health?",
+    "answer": "Every 6 months"
+  },
+  {
+    "question": "The _______ of this workshop is to give leaders tools to make smart decisions.",
+    "answer": "aim"
+  },
+  {
+    "question": "At CK Factory, we know our _______ to provide a safe workplace for our employees.",
+    "answer": "obligation"
+  },
+  {
+    "question": "In which of the following cases should emergency contraception be used",
+    "answer": "All of the above"
+  },
+  {
+    "question": "It is important that we should _______ the environment.",
+    "answer": "protect"
+  },
+  {
+    "question": "Which statement has the closest meaning to this sentence: “I helped the old lady cross the road, said the teacher.”?",
+    "answer": "The teacher said I helped the old lady cross the road."
+  },
+  {
+    "question": "What should be particularly noted to prevent hepatitis C?",
+    "answer": "Avoiding contact with the blood of infected individuals"
+  },
+  {
+    "question": "My uncle dreams of having a new house, so he _______ to save up for it.",
+    "answer": "intends"
+  },
+  {
+    "question": "Dr. Yuina recently hired another doctor, _______ allowing more patients to be seen.",
+    "answer": "thus"
+  },
+  {
+    "question": "Dull Island has become popular with tourists_______ its rich culture of art and music.",
+    "answer": "because of"
+  },
+  {
+    "question": "More and more investors are pouring _______ money into food and beverage startups.",
+    "answer": "0 (no article)"
+  },
+  {
+    "question": "Thanks for lending me your umbrella; it really came in _______.",
+    "answer": "handy"
+  },
+  {
+    "question": "What is the primary preventive measure recommended to prevent HIV transmission?",
+    "answer": "Using condoms during sexual intercourse"
+  },
+  {
+    "question": "A 30-year-old pregnant woman at 20 weeks’ gestation was diagnosed with a neural tube defect in the fetus via ultrasound. Which of the following is the most appropriate advice for the pregnant woman",
+    "answer": "Transfer to a higher-level hospital for a second opinion"
+  },
+  {
+    "question": "What should individuals with HIV adhere to in order to reduce the risk of transmission to others?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "One recipe for success is to stay focused and _______ yourself to whatever you do.",
+    "answer": "adhere"
+  },
+  {
+    "question": "The wireless speaker not only works with smartphones_______ is waterproof as well.",
+    "answer": "but"
+  },
+  {
+    "question": "Full of old-fashioned charm, the Inn _______ offers modern conveniences.",
+    "answer": "also"
+  },
+  {
+    "question": "Keith’s _______ income looks impressive, but once tax and social security contributions are deducted, it’s not so much.",
+    "answer": "gross"
+  },
+  {
+    "question": "Let your younger brother talk first, _______?",
+    "answer": "shall we"
+  },
+  {
+    "question": "What is the primary goal of cancer treatment?",
+    "answer": "All the above"
+  },
+  {
+    "question": "A series of programs have been broadcast to raise public _______ of healthy living.",
+    "answer": "awareness"
+  },
+  {
+    "question": "To control costs, updated credit card readers will be _______ installed in branch stores.",
+    "answer": "gradually"
+  },
+  {
+    "question": "What is the causative agent of AIDS?",
+    "answer": "HIV virus"
+  },
+  {
+    "question": "Hepatitis C is primarily transmitted through?",
+    "answer": "Blood route"
+  },
+  {
+    "question": "Her school performance has greatly improved since she _______ her study methods.",
+    "answer": "changed"
+  },
+  {
+    "question": "It’s impossible _______ us to sleep because of the noise.",
+    "answer": "for"
+  },
+  {
+    "question": "The staff have a lot of _______ about hardware systems.",
+    "answer": "knowledge"
+  },
+  {
+    "question": "Which statement has the closest meaning to this sentence: “Students are not allowed to bring food into the computer room.”?",
+    "answer": "Students mustn't bring food into the computer room."
+  },
+  {
+    "question": "The store had a _______ display to promote the newest book from the best-selling author.",
+    "answer": "massive"
+  },
+  {
+    "question": "The _______ of the Internet has played an important part in the development of communication.",
+    "answer": "invention"
+  },
+  {
+    "question": "Which statement has the closest meaning to this sentence: “ I’m going back to work next week,” said Harry.?",
+    "answer": "Harry said that he was going back to work the following week."
+  },
+  {
+    "question": "Ms. Pham asked for a refund _______ the coffeemaker she got was broken.",
+    "answer": "because"
+  },
+  {
+    "question": "When is the ideal time for women to start breast cancer screening",
+    "answer": "40"
+  },
+  {
+    "question": "Skovent’s sales revenue showed a _______ improvement at the end of last quarter.",
+    "answer": "marked"
+  },
+  {
+    "question": "All requests must be sent to the _______ department supervisor.",
+    "answer": "appropriate"
+  },
+  {
+    "question": "What is the main preventive measure to prevent hepatitis B?",
+    "answer": "Hepatitis B vaccination"
+  },
+  {
+    "question": "You and your big mouth! It was supposed to be a secret. You _______ her!",
+    "answer": "shouldn't have told"
+  },
+  {
+    "question": "The better the weather is, _______.",
+    "answer": "the more crowded the beaches get"
+  },
+  {
+    "question": "What is the typical incubation period for influenza?",
+    "answer": "1-2 days"
+  },
+  {
+    "question": "This is _______ most beautiful song I’ve ever listened to.",
+    "answer": "the"
+  },
+  {
+    "question": "All of the billing procedures remain the same, _______ new payment codes need to be put into the invoice documents.",
+    "answer": "except that"
+  },
+  {
+    "question": "Which of the following contraceptive methods is most effective in preventing unintended pregnancy?",
+    "answer": "Emergency contraception"
+  },
+  {
+    "question": "At first, John said he hadn’t broken the vase, but later he _______ it.",
+    "answer": "admitted"
+  },
+  {
+    "question": "_______ Sahara, which filled nearly all of northern Africa, is the largest desert in the world.",
+    "answer": "The"
+  },
+  {
+    "question": "Mr. Brown has kindly agreed to spare us some of his _______ time to answer our questions.",
+    "answer": "valuable"
+  },
+  {
+    "question": "Which statement has the closest meaning to these sentences: “ He lacked commitment to the job. He wasn’t considered for promotion.”?",
+    "answer": "If it had not been for his lack of commitment to the job, he would be considered for promotion."
+  },
+  {
+    "question": "Don’t worry too much. We all _______ mistakes sometimes.",
+    "answer": "make"
+  },
+  {
+    "question": "What is schizophrenia?",
+    "answer": "A mental disorder characterized by disturbed thinking, emotions and behavior"
+  },
+  {
+    "question": "The Bistro’s menu has a _______ variety of seafood items than the Pavilion’s.",
+    "answer": "wider"
+  },
+  {
+    "question": "Bright red blood is found in:",
+    "answer": "Pulmonary artery"
+  },
+  {
+    "question": "Everyone at the Halloween party hid their faces by wearing different _______.",
+    "answer": "masks"
+  },
+  {
+    "question": "The mother tries hard to _______ sure that her children get the best of everything.",
+    "answer": "make"
+  },
+  {
+    "question": "My sister and I share the housework. We take turns to_______ the dishes and clean the house.",
+    "answer": "wash up"
+  },
+  {
+    "question": "What is the most common type of diabetes?",
+    "answer": "Type 2 Diabetes"
+  },
+  {
+    "question": "You have managed to bungle every task I’ve given you so far. _______, I’m preparing to give you one last chance.",
+    "answer": "Nevertheless"
+  },
+  {
+    "question": "_______ it is small, the fitness center is very popular with residents.",
+    "answer": "Although"
+  },
+  {
+    "question": "Although I suggested he was mistaken, John still_______ and got out of the room",
+    "answer": "remained calm"
+  },
+  {
+    "question": "Which foods are most likely to cause food poisoning?",
+    "answer": "Pre-cooked food left out for a long time"
+  },
+  {
+    "question": "Today the number of startups in Vietnam is _______ because the government has created favourable conditions for them to develop their business",
+    "answer": "increasing"
+  },
+  {
+    "question": "Which enzyme plays the main role in starch degradation?",
+    "answer": "Amylase"
+  },
+  {
+    "question": "North River promises nextday shipping_______Asia.",
+    "answer": "throughout"
+  },
+  {
+    "question": "The manager showed data on employee performance with _______ on achievements.",
+    "answer": "emphasis"
+  },
+  {
+    "question": "A: “I can’t believe you’re late again!”B: “I’m sorry, but _______.”",
+    "answer": "it couldn't be helped"
+  },
+  {
+    "question": "Mary rarely uses social networks, _______?",
+    "answer": "does she"
+  },
+  {
+    "question": "It’s quite disappointing that some people still _______ acts of injustice they witness in the street.",
+    "answer": "take no notice of"
+  },
+  {
+    "question": "Franklin Bookstore will be moving next month _______ a larger location on Queen Street.",
+    "answer": "to"
+  },
+  {
+    "question": "Which of the following is NOT a recommended treatment for diarrhea?",
+    "answer": "High-fat diet"
+  },
+  {
+    "question": "Who is at high risk for hepatitis C infection?",
+    "answer": "Individuals who inject drugs"
+  },
+  {
+    "question": "Mary: “Would you like something to drink, Giang?”Giang: “ _______ ”",
+    "answer": "Coffee, please."
+  },
+  {
+    "question": "How is tuberculosis primarily transmitted?",
+    "answer": "Airborne droplets"
+  },
+  {
+    "question": "The judges for this year’s screenplay competition include _______ from Han Studios.",
+    "answer": "representatives"
+  },
+  {
+    "question": "Samuel: “I think we should do some local volunteer work this summer.”Lan: “ _______. Some people in our neighbourhood really need help.”",
+    "answer": "I quite agree with you"
+  },
+  {
+    "question": "Professor Bench will present his paper _______ the history conference tomorrow.",
+    "answer": "at"
+  },
+  {
+    "question": "Remember to check the spelling when _______ the document.",
+    "answer": "revising"
+  },
+  {
+    "question": "What should be done to prevent malaria during travel to endemic areas?",
+    "answer": "Take antimalarial medication before and during the stay"
+  },
+  {
+    "question": "Aki’s newest novel is his most exciting _______ and is sure to be on best-seller list.",
+    "answer": "yet"
+  },
+  {
+    "question": "What is the role of insulin in the body?",
+    "answer": "Helps the body use glucose for energy."
+  },
+  {
+    "question": "Depression is a mental health disorder that can cause:",
+    "answer": "Loss of appetite and disrupted sleep"
+  },
+  {
+    "question": "What might children with malnutrition have difficulty with?",
+    "answer": "Learning and intellectual development"
+  },
+  {
+    "question": "Hong: “ _______ ?”Mike: “Here you are.”",
+    "answer": "Can you pass the salt, please"
+  },
+  {
+    "question": "Which of the following is NOT a cause of food poisoning?",
+    "answer": "Fresh, raw food"
+  },
+  {
+    "question": "_______ industry professionals can buy tickets to the Kuo Fair.",
+    "answer": "Only"
+  },
+  {
+    "question": "The meeting will begin _______.",
+    "answer": "as soon as all the participants arrive"
+  },
+  {
+    "question": "Which statement has the closest meaning to this sentence: “My sister has just finished her English course,” said Tony.?",
+    "answer": "Tony said that his sister had just finished her English course."
+  },
+  {
+    "question": "What should be done to prevent malnutrition?",
+    "answer": "Drink enough water and eat a balanced diet"
+  },
+  {
+    "question": "Which of the following is a heart-healthy oil?",
+    "answer": "Olive oil"
+  },
+  {
+    "question": "Which vaccines should pregnant women get during pregnancy?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "_______ receiving the award, Ms. Kwon made sure to thank her mentors.",
+    "answer": "Upon"
+  },
+  {
+    "question": "I haven’t got the time to do my own work, _______ help you with yours.",
+    "answer": "let alone"
+  },
+  {
+    "question": "Which non-communicable disease can cause permanent kidney damage if not properly managed?",
+    "answer": "Diabetes"
+  },
+  {
+    "question": "What measures can reduce the risk of HIV transmission through blood?",
+    "answer": "Both A and C are correct"
+  },
+  {
+    "question": "I would like to extend my gratitude to all the staff for their _______ support, without which our company couldn’t have overcome the crisis",
+    "answer": "unfailing"
+  },
+  {
+    "question": "Hand, Foot, and Mouth Disease is caused by",
+    "answer": "Enterovirus"
+  },
+  {
+    "question": "_______ the rent increase is less than 2 percent, Selwin will keep renting the space.",
+    "answer": "As long as"
+  },
+  {
+    "question": "_______ materials for the course include an audio CD and a DVD.",
+    "answer": "Supplementary"
+  },
+  {
+    "question": "An allergic reaction occurs when the body’s immune system overreacts to:",
+    "answer": "Foreign substances"
+  },
+  {
+    "question": "Last year, Tadaka was third _______ in regional earnings.",
+    "answer": "overall"
+  },
+  {
+    "question": "What function do bones have?",
+    "answer": "Both A and B are correct"
+  },
+  {
+    "question": "Which statement has the closest meaning to this sentence: “It is believed that modern farming methods have greatly improved farmers’ lives.”?",
+    "answer": "Farmers are believed to have enjoyed a much better life thanks to modem fanning methods."
+  },
+  {
+    "question": "To protect oneself and prevent spreading influenza to others, what should be done when coughing or sneezing?",
+    "answer": "Cover mouth and nose with a tissue"
+  },
+  {
+    "question": "The actors had an extra practice _______ make their scenes perfect.",
+    "answer": "in order to"
+  },
+  {
+    "question": "What is the recommended daily intake of sodium for a healthy adult?",
+    "answer": "Less than 2,300 milligrams"
+  },
+  {
+    "question": "You can trust David, your neighbour because he is a _______ person.",
+    "answer": "reliable"
+  },
+  {
+    "question": "How can the risk of tuberculosis transmission in the community be reduced?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which statement has the closest meaning to these sentences: “Kate completed her higher education. She then decided to travel the world before getting a job.”?",
+    "answer": "Having completed her higher education, Kate decided to travel the world before getting a job."
+  },
+  {
+    "question": "Staff members may reserve the conference room _______ they need it.",
+    "answer": "anytime"
+  },
+  {
+    "question": "The manager meets the team regularly to make sure procedures_______ correctly.",
+    "answer": "are being performed"
+  },
+  {
+    "question": "Can diabetes be completely cured?",
+    "answer": "There is currently no cure"
+  },
+  {
+    "question": "What is a common symptom of influenza?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "Most of the houses in the neighbourhood _______ terrible damage in the fire.",
+    "answer": "sustained"
+  },
+  {
+    "question": "Children with obesity may have difficulty with which of the following?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "Customers can wait here _______ our mechanics repair the car.",
+    "answer": "while"
+  },
+  {
+    "question": "My younger brother is a very _______ character; he is never relaxed with strangers.",
+    "answer": "self-conscious"
+  },
+  {
+    "question": "_______ the high cost of fuel, customers are buying more efficient cars.",
+    "answer": "Because of"
+  },
+  {
+    "question": "Fashion designer Pak knows _______ to update her design in response to changing tastes.",
+    "answer": "when"
+  },
+  {
+    "question": "Passengers must be at the gate _______ 25 minutes before their flight boards.",
+    "answer": "at least"
+  },
+  {
+    "question": "Which condition is commonly associated with the accumulation of cholesterol in the arteries?",
+    "answer": "Coronary artery disease"
+  },
+  {
+    "question": "When should you take your loved one to the doctor if you suspect they have schizophrenia?",
+    "answer": "All of the above answers"
+  },
+  {
+    "question": "Which statement has the closest meaning to these sentences: “Smartphones arc becoming reasonably priced. New applications make them more appealing.”?",
+    "answer": "Not only are smartphones becoming more affordable but, with new applications, they are also more appealing."
+  },
+  {
+    "question": "Can depression be treated?",
+    "answer": "All three ideas above are correct"
+  },
+  {
+    "question": "To prevent colorectal cancer, you should:",
+    "answer": "Increase consumption of vegetables and fruits"
+  },
+  {
+    "question": "Which of the following is NOT a sign of labor",
+    "answer": "Morning sickness"
+  },
+  {
+    "question": "By the end of this month, I hope I _______ 200 pages of my new novel.",
+    "answer": "will have written"
+  },
+  {
+    "question": "NC Finance _______ an online system to make service lines shorter at branch locations.",
+    "answer": "has implemented"
+  },
+  {
+    "question": "Before the computers leave the factory, they are _______ carefully to make sure they have no problems.",
+    "answer": "inspected"
+  },
+  {
+    "question": "What are typical symptoms of schizophrenia?",
+    "answer": "All of the above answers"
+  },
+  {
+    "question": "The management team offers incentives _______ employee productivity.",
+    "answer": "to stimulate"
+  },
+  {
+    "question": "Anxiety is typically characterized by:",
+    "answer": "Persistent worry and stress"
+  },
+  {
+    "question": "They should write an outline for their presentation, _______?",
+    "answer": "shouldn't they"
+  },
+  {
+    "question": "Customers who make payments _______ March 10 will have to pay a late fee",
+    "answer": "after"
+  },
+  {
+    "question": "Which statement best combines these sentences: “Peter moved abroad for a fresh start. He regrets it now.”?",
+    "answer": "Peter wishes he hadn't moved abroad for a fresh start."
+  },
+  {
+    "question": "Which of the following is NOT a common health risk associated with obesity?",
+    "answer": "Osteoporosis"
+  },
+  {
+    "question": "What is the most common cause of heart disease?",
+    "answer": "Lifestyle factors"
+  },
+  {
+    "question": "Wilson is a _______ boy. He makes friends at his new school quite easily.",
+    "answer": "friendly"
+  },
+  {
+    "question": "_______ the new juice blend has proved so popular, we should move quickly to increase our production volume.",
+    "answer": "Since"
+  },
+  {
+    "question": "What is blood pressure?",
+    "answer": "The force of blood acting on blood vessel walls"
+  },
+  {
+    "question": "Shop assistant: “Do you need anything else?” Customer: “ _______ “",
+    "answer": "That's all. Thanks."
+  },
+  {
+    "question": "Which of the following vitamins should pregnant women supplement to help their baby’s brain development?",
+    "answer": "Folic acid"
+  },
+  {
+    "question": "Which of the following is not a risk factor for cardiovascular disease?",
+    "answer": "A balanced diet"
+  },
+  {
+    "question": "Marine reptiles are among the few creatures that are known to have a possible life span greater than _______.",
+    "answer": "that of man"
+  },
+  {
+    "question": "Which age group is most commonly affected by malnutrition?",
+    "answer": "Children under 5 years old"
+  },
+  {
+    "question": "The survey _______ will be shared a week after they are reviewed.",
+    "answer": "results"
+  },
+  {
+    "question": "In _______ evening, we sometimes eat out with our friends.",
+    "answer": "the"
+  },
+  {
+    "question": "I will never forget _______ with Tom. We had a wonderful time together.",
+    "answer": "working"
+  },
+  {
+    "question": "Which of the following symptoms might indicate malnutrition?",
+    "answer": "Pale skin, fatigue"
+  },
+  {
+    "question": "At Derwin, trainees switch _______ attending sessions and working with mentors.",
+    "answer": "between"
+  },
+  {
+    "question": "He gave me a _______ box to say sorry to me for what he had done.",
+    "answer": "small metal square jewelry"
+  },
+  {
+    "question": "Experts strongly advise patients with hypertension to avoid food _______ high amounts of fat.",
+    "answer": "containing"
+  },
+  {
+    "question": "When I came to his house, he _______ a football match on TV.",
+    "answer": "was watching"
+  },
+  {
+    "question": "Who should be tested and vaccinated for tuberculosis?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "It’s a pity that we didn’t visit Tom when we had the chance, I _______ him before he left the country.",
+    "answer": "would like to have seen"
+  },
+  {
+    "question": "What is the main cause of type 2 diabetes?",
+    "answer": "Unhealthy lifestyle"
+  },
+  {
+    "question": "Which statement has the closest meaning to this sentence: “It is not necessary for you to wear formal clothes to the party this evening.”?",
+    "answer": "You needn't wear formal clothes to the party this evening."
+  },
+  {
+    "question": "Because Mr. Lewis works so _______, he was given a pay raise.",
+    "answer": "hard"
+  },
+  {
+    "question": "Patients with symptoms of inner tension, nervousness, palpitations, rapid pulse, stomach growling,… What are these symptoms?",
+    "answer": "Anxiety"
+  },
+  {
+    "question": "Which statement has the closest meaning to this sentence: “I find it useful to join the sports club.”?",
+    "answer": "It is useful for me to join the sports club"
+  },
+  {
+    "question": "The lightweight design of the new car is _______ because it can cause the vehicle to slide on icy roads.",
+    "answer": "questionable"
+  },
+  {
+    "question": "They must have gone away, _______?",
+    "answer": "mustn't they"
+  },
+  {
+    "question": "I’m not surprised he’s feeling ill – he was eating one ice cream after _______!",
+    "answer": "another"
+  },
+  {
+    "question": "What is the most effective preventive measure against malaria?",
+    "answer": "Using mosquito nets"
+  },
+  {
+    "question": "Orcheta uses the best woodworking machines imported _______ Denmark.",
+    "answer": "from"
+  },
+  {
+    "question": "What is the causative agent of malaria?",
+    "answer": "Malaria parasite"
+  },
+  {
+    "question": "AGU Group’s insurance rates have remained steady _______ the last three years.",
+    "answer": "for"
+  },
+  {
+    "question": "Which of the following factors is NOT a cause of being overweight and obesity?",
+    "answer": "Regular physical activity"
+  },
+  {
+    "question": "What is the most essential measure for preventing syphilis?",
+    "answer": "Using condoms"
+  },
+  {
+    "question": "However strict _______ we took, we couldn’t eliminate the risk of any further riots in the streets.",
+    "answer": "measures"
+  },
+  {
+    "question": "Although the students in my class has been learning English for three months, they can _______ confidently with foreigners.",
+    "answer": "communicate"
+  },
+  {
+    "question": "Green Library has hired an assistant not only to do general office work _______ to help with special projects.",
+    "answer": "but also"
+  },
+  {
+    "question": "A healthy adult’s normal heart beats approximately how many times per minute?",
+    "answer": "60-100 times"
+  },
+  {
+    "question": "What is the primary cause of dengue fever?",
+    "answer": "Dengue virus"
+  },
+  {
+    "question": "My sister and I share the housework. We take turns to _______ the dishes and clean the house.",
+    "answer": "wash up"
+  },
+  {
+    "question": "I think you should apologise to Mary. What you commented on her new hairstyle yesterday was really _______.",
+    "answer": "unfair and unkind"
+  },
+  {
+    "question": "How can regular exercise help prevent heart disease?",
+    "answer": "All the above"
+  },
+  {
+    "question": "The extra payments are a _______ for most single mothers.",
+    "answer": "lifeline"
+  },
+  {
+    "question": "Liz: “Thanks for the nice gift you bought for us.” Jennifer: “ _______”",
+    "answer": "I'm glad you like it."
+  },
+  {
+    "question": "What is a primary symptom of mumps?",
+    "answer": "Swelling of the salivary glands"
+  },
+  {
+    "question": "This year, the Montel Company is expecting sales _______ £160,000 and £180,000.",
+    "answer": "between"
+  },
+  {
+    "question": "On Fixit Website, homeowners will find economical solutions for _______ repairs.",
+    "answer": "common"
+  },
+  {
+    "question": "Mr. Singh took notes on _______ the group talked about in the session.",
+    "answer": "everything"
+  },
+  {
+    "question": "What is the main cause of being overweight and obesity?",
+    "answer": "Eating too much fast food and sweets"
+  },
+  {
+    "question": "Deltran software can help _______ find issues and improve business.",
+    "answer": "you"
+  },
+  {
+    "question": "Risk factors for atherosclerosis include:",
+    "answer": "All of the above"
+  },
+  {
+    "question": "Only after she _______ from a severe illness did she realise the importance of good health.",
+    "answer": "had recovered"
+  },
+  {
+    "question": "Nam’s family has been living _______ Ha Noi for 20 years.",
+    "answer": "in"
+  },
+  {
+    "question": "Newspaper publishers in the States have estimated _______ reads a newspaper every day.",
+    "answer": "that nearly 80 percent of the adult population who"
+  },
+  {
+    "question": "When the manager of our company retires, the deputy manager will _______ that position.",
+    "answer": "take over"
+  },
+  {
+    "question": "Why is vaccination important for teenagers?",
+    "answer": "All of the above answers are correct"
+  },
+  {
+    "question": "CEO Kasai has full confidence in Maritime’s _______ to deliver the product on time.",
+    "answer": "ability"
+  },
+  {
+    "question": "Adalet’s unique way of watering vegetables has shown to be _______ effective.",
+    "answer": "highly"
+  },
+  {
+    "question": "The lease with P-Group _______ if changes to the existing offices are made.",
+    "answer": "will be continued"
+  },
+  {
+    "question": "It is urgent that a lasting peace _______ in that country.",
+    "answer": "be established"
+  },
+  {
+    "question": "Mary feels confident about the competition _______ she has been well-prepared.",
+    "answer": "because"
+  },
+  {
+    "question": "What is the primary mode of HIV transmission?",
+    "answer": "Both A and B are correct"
+  },
+  {
+    "question": "Which of the following symptoms suggests that a person may have a sexually transmitted infection (STI)?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "Toronto is one of three cities being _______ as the host for the next convention.",
+    "answer": "considered"
+  },
+  {
+    "question": "In women, polycystic ovary syndrome (PCOS) often causes infertility due to which of the following mechanisms?",
+    "answer": "Ovulatory dysfunction"
+  },
+  {
+    "question": "Realty clients can search property listings in _______ neighborhood by using a special database.",
+    "answer": "any"
+  },
+  {
+    "question": "Residents went to City Hall to ask _______ developers will keep the historic buildings.",
+    "answer": "whether"
+  },
+  {
+    "question": "_______ the rising population of the industrial nations has not suffered from a major epidemic since the last century.",
+    "answer": "It is a miracle that"
+  },
+  {
+    "question": "His resignation came _______. We were all very surprised.",
+    "answer": "unpredictably"
+  },
+  {
+    "question": "The house looks quite different now because they have made _______ changes to it.",
+    "answer": "major"
+  },
+  {
+    "question": "Tickets for such events will be _______ cheap unless you want seats in the VIP areas.",
+    "answer": "normally"
+  },
+  {
+    "question": "York celebrated the _______ of the Ford office complex with a ceremony.",
+    "answer": "opening"
+  },
+  {
+    "question": "One important measure to prevent diabetes is:",
+    "answer": "Reducing the intake of sugary and starchy foods"
+  },
+  {
+    "question": "Mr. Kang works _______ with our team members as well as various sales representatives.",
+    "answer": "closely"
+  },
+  {
+    "question": "What is the main cause of food safety issues?",
+    "answer": "Spoiled or contaminated food"
+  },
+  {
+    "question": "Ms. Luo will explain some outcomes of the _______ merger with the Will Corporation.",
+    "answer": "proposed"
+  },
+  {
+    "question": "This historic building was built nearly 200 years _______.",
+    "answer": "ago"
+  },
+  {
+    "question": "_______ this time next year, Larkview will have acquired two new companies.",
+    "answer": "By"
+  },
+  {
+    "question": "Ms. Blan has extensive experience in corporate_______ and budgeting.",
+    "answer": "finance"
+  },
+  {
+    "question": "Despite numerous _______ pushes, he couldn’t make the window open.",
+    "answer": "strong"
+  },
+  {
+    "question": "The_______ for the city council’s meeting is posted on the Web site by 3:00 P.M. on Friday.",
+    "answer": "agenda"
+  },
+  {
+    "question": "Graden Hotel _______ its great reputation thanks to good services.",
+    "answer": "earned"
+  },
+  {
+    "question": "With price increases, many people have to stop _______ for fear of getting into financial difficulties.",
+    "answer": "spending money freely"
+  },
+  {
+    "question": "His health has improved a lot since he _______ smoking.",
+    "answer": "gave up"
+  },
+  {
+    "question": "Paul has just sold his _______ car and intends to buy a new one.",
+    "answer": "old black Japanese"
+  },
+  {
+    "question": "The residents of the village are living a happy life _______ they lack modem facilities.",
+    "answer": "although"
+  },
+  {
+    "question": "Mary lives in an old house _______ the countryside.",
+    "answer": "in"
+  },
+  {
+    "question": "Because Mount Akoyola is so challenging for climbers, _______ have reached its peak.",
+    "answer": "few"
+  },
+  {
+    "question": "Thanks _______ to pastry chef, Anna’s Restaurant has become a favorite with local customers.",
+    "answer": "largely"
+  },
+  {
+    "question": "We congratulate all employees, whose _______ effort has led to a 20 percent drop in waste disposal costs.",
+    "answer": "collective"
+  },
+  {
+    "question": "What is the primary cause of pulmonary tuberculosis?",
+    "answer": "Mycobacterium tuberculosis bacteria"
+  },
+  {
+    "question": "Which of the following foods should be limited to control high blood pressure?",
+    "answer": "Foods high in salt and sodium"
+  },
+  {
+    "question": "Which of the following is not a symptom of depression?",
+    "answer": "Eat well and feel full of energy"
+  },
+  {
+    "question": "What psychotherapy is commonly used to treat bipolar disorder?",
+    "answer": "All of the above answers"
+  },
+  {
+    "question": "What is diabetes?",
+    "answer": "A metabolic disorder in which the body cannot effectively use glucose"
+  },
+  {
+    "question": "Which statement has the closest meaning to these sentences: “ Online distribution of pirated publications is illegal. Many Internet users still commit the offence.”?",
+    "answer": "Illegal though online distribution of pirated publications is, many Internet users still commit the offence."
+  },
+  {
+    "question": "Mr. DuPont insisted that price _______ be applied right away.",
+    "answer": "reductions"
+  },
+  {
+    "question": "King Bridge will be closed in the month of September _______ repair work.",
+    "answer": "because of"
+  },
+  {
+    "question": "With the Gema, you can _______ see things that are more than 100 meters away.",
+    "answer": "easily"
+  },
+  {
+    "question": "Which statement has the closest meaning to this sentence: “Mark started learning Spanish seven years ago.”?",
+    "answer": "Mark has learned Spanish for seven years."
+  },
+  {
+    "question": "We have travelled to almost every tourist attraction in _______ Africa.",
+    "answer": "the"
+  },
+  {
+    "question": "Bob: “I think we should lead a green lifestyle.”Khanh: “ _______. It helps to protect the environment.”",
+    "answer": "Sure."
+  },
+  {
+    "question": "The kitchen _______ by my mother last Sunday morning.",
+    "answer": "was cleaned"
+  },
+  {
+    "question": "The graphics of this book are attractive, but its _______ is not original at all.",
+    "answer": "content"
+  },
+  {
+    "question": "What is depression?",
+    "answer": "Depression is a mental disorder"
+  },
+  {
+    "question": "Early buyers of the XC2 phone said they found it _______ to use.",
+    "answer": "convenient"
+  },
+  {
+    "question": "What is the most effective way to prevent COPD?",
+    "answer": "No smoking"
+  },
+  {
+    "question": "The second training session is for employees _______ job is to process payroll forms.",
+    "answer": "whose"
+  },
+  {
+    "question": "Which of the following is an effective method for managing and preventing hypertension?",
+    "answer": "Regularly monitoring blood pressure and maintaining a healthy lifestyle"
+  },
+  {
+    "question": "Her parents are working on the farm, _______ ?",
+    "answer": "aren't they"
+  },
+  {
+    "question": "_______ events this year made profits different from the original plans.",
+    "answer": "Unforeseen"
+  },
+  {
+    "question": "At Pharmbeck’s banquet, Mr. Jones _______ a trophy for his work in this year.",
+    "answer": "accepted"
+  },
+  {
+    "question": "The man _______ home when his car broke down.",
+    "answer": "was driving"
+  },
+  {
+    "question": "With his good sense of humour, Martin is quite _______ with the students.",
+    "answer": "popular"
+  },
+  {
+    "question": "The following characteristics contribute to the diagnosis of Hypertension?",
+    "answer": "Systolic blood pressure increases more than normal"
+  },
+  {
+    "question": "The patients _______ with the new drug showed better recovery than those receiving old medicine.",
+    "answer": "treated"
+  },
+  {
+    "question": "Air pollution has become serious, _______ health problems for many people.",
+    "answer": "causing"
+  },
+  {
+    "question": "A university degree is considered to be a _______ for entiy into most professions.",
+    "answer": "requisite"
+  },
+  {
+    "question": "The salary you receive will _______ according to your qualifications and experience.",
+    "answer": "vary"
+  },
+  {
+    "question": "Working mothers can inspire their kids _______ their hard work and devotion.",
+    "answer": "with"
+  },
+  {
+    "question": "Life here is so good, _______?",
+    "answer": "isn't it"
+  },
+  {
+    "question": "His research team will hire _______ students to assist with laboratory cities.",
+    "answer": "several"
+  },
+  {
+    "question": "As the rental agreement is set _______ soon, the available office space can be advertised.",
+    "answer": "to expire"
+  },
+  {
+    "question": "Which statement best combines these sentences: Hoa had just graduated from university. She was offered a job in a prestigious multinational corporation.?",
+    "answer": "Hardly had Hoa graduated from university when she was offered a job in a prestigious multinational corporation."
+  },
+  {
+    "question": "Using right techniques to _______ items greatly lowers the chance of back injury",
+    "answer": "lift"
+  },
+  {
+    "question": "The cooking instructions call for reducing the heat and letting the sauce simmer_______ it thickens.",
+    "answer": "until"
+  },
+  {
+    "question": "_______ construction happening at the town hall, tourists will not be allowed to enter the site.",
+    "answer": "Due to"
+  },
+  {
+    "question": "He has gone to the UK for further education since he _______ upper secondary school.",
+    "answer": "finished"
+  },
+  {
+    "question": "Her aunt gave her a _______ handbag on her birthday last week.",
+    "answer": "beautiful red Korean"
+  },
+  {
+    "question": "Which of the following foods is most likely to trigger heartburn?",
+    "answer": "Fried foods"
+  },
+  {
+    "question": "The manager will arrive tomorrow, so please make sure that all _______ documents are ready.",
+    "answer": "her"
+  },
+  {
+    "question": "The award-winning film promotes awareness _______ ocean pollution.",
+    "answer": "of"
+  },
+  {
+    "question": "_______has time at the end of the day should make sure that all of the cabinets are locked.",
+    "answer": "Whoever"
+  },
+  {
+    "question": "_______ a year, Tarrin checks the accounts of all its factories.",
+    "answer": "Once"
+  },
+  {
+    "question": "Which of the following is a common dietary recommendation for managing constipation?",
+    "answer": "High fiber intake"
+  },
+  {
+    "question": "Consumers _______ excitedly to the new colors created by Sanwell Paint.",
+    "answer": "responded"
+  },
+  {
+    "question": "The technology department _______ to buy three new servers next year.",
+    "answer": "plans"
+  },
+  {
+    "question": "Which statement has the closest meaning to this sentence: “Would you like to go to the show with me? Anna said to Bella.”?",
+    "answer": "Anna invited Bella to go to the show with her."
+  },
+  {
+    "question": "What is most important during post-traumatic stress disorder treatment?",
+    "answer": "All of the above answers"
+  },
+  {
+    "question": "Prasma’s win was _______ because of good timing.",
+    "answer": "partly"
+  },
+  {
+    "question": "_______ the two companies are planning a merger.",
+    "answer": "Word is that"
+  },
+  {
+    "question": "The staff at NB Hotel were _______ helpful to us during our stay.",
+    "answer": "quite"
+  },
+  {
+    "question": "The poll shows how often leaders make decisions that are _______ by employee opinions.",
+    "answer": "influenced"
+  },
+  {
+    "question": "Senior hotel manager salaries differ _______ by company, location, and experience",
+    "answer": "greatly"
+  },
+  {
+    "question": "Children weren’t brought up in a caring environment tend to grow more _______ towards others.",
+    "answer": "hateful"
+  },
+  {
+    "question": "It is not always easy to make a good _______ at the last minute.",
+    "answer": "decision"
+  },
+  {
+    "question": "Once _______ for viruses, the software can be installed in the school computer system for use.",
+    "answer": "tested"
+  },
+  {
+    "question": "The foreign teacher was speaking so fast. Nga couldn’t _______ the main content of his lesson.",
+    "answer": "make up"
+  },
+  {
+    "question": "Peter was very sick until he took the _______ medicine that Doctor Staples prescribed.",
+    "answer": "wonderful"
+  },
+  {
+    "question": "He stormed out of the hall, _______ down several chairs as he went.",
+    "answer": "knocking"
+  },
+  {
+    "question": "Please read the list of _______ qualifications to make sure you have the needed requirements.",
+    "answer": "essential"
+  },
+  {
+    "question": "What is the advantage of using condoms as a contraceptive method",
+    "answer": "Prevents pregnancy and sexually transmitted infections"
+  },
+  {
+    "question": "Every batch of sauce at the Bistro is processed by _______ chefs.",
+    "answer": "their"
+  },
+  {
+    "question": "The school’s going to have a swimming _______ for the first year students.",
+    "answer": "competition"
+  },
+  {
+    "question": "A woman’s on the pill and she’s got a fever. She needs antibiotics. What should she do?",
+    "answer": "She should use another form of birth control while she's on antibiotics"
+  },
+  {
+    "question": "Mr. Kim thinks being on time is a crucial _______ for all assistants.",
+    "answer": "trait"
+  },
+  {
+    "question": "When learning a foreign language, keeping well-ordered vocabulary notes is of _______ importance.",
+    "answer": "paramount"
+  },
+  {
+    "question": "If your priority is being able to _______ your legs and walk around occasionally, take the train instead of the plane.",
+    "answer": "stretch"
+  },
+  {
+    "question": "_______ Mr. Don expected the charity event to do well, the community’s response still surprised him.",
+    "answer": "Although"
+  },
+  {
+    "question": "For busy people in today’s society, lifestyle management is gaining _______.",
+    "answer": "ground"
+  },
+  {
+    "question": "What types of foods should a person with malnutrition eat to improve their condition?",
+    "answer": "Foods rich in protein and vitamins"
+  },
+  {
+    "question": "Which of the following is ineffective in preventing hepatitis B?",
+    "answer": "Taking anti-inflammatory medication"
+  },
+  {
+    "question": "Which statement has the closest meaning to this sentence: “I have a lot of homework to do, Ha said”?",
+    "answer": "Ha said that she had a lot of homework to do."
+  },
+  {
+    "question": "Fast food contains a lot of the following substances, which are harmful to the heart?",
+    "answer": "Saturated fat and sugar"
+  },
+  {
+    "question": "What is cancer?",
+    "answer": "A group of diseases involving the uncontrolled growth of cells and their ability to invade other tissues"
+  },
+  {
+    "question": "Which type of fat is considered beneficial for cardiovascular health?",
+    "answer": "Unsaturated fats"
+  },
+  {
+    "question": "Simply is a premium cooking oil brand which has 4 variants– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin ESimply is proud to be the only brand in cooking oils ____ by Vietnam Heart Association.Complete the sentence",
+    "answer": "recommended"
+  },
+  {
+    "question": "Simply is a premium cooking oil brand which has 4 variants– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin ESimply will help to prevent bad cholesterol and protect your ____ health. Complete the sentence",
+    "answer": "Heart"
+  },
+  {
+    "question": "She promised _______ to my birthday party, but she didn’t.",
+    "answer": "to come"
+  },
+  {
+    "question": "Josh: “Why didn’t you come to my party?”Sue: “ _______ ”",
+    "answer": "I wasn't feeling well."
+  },
+  {
+    "question": "The main function of the lungs is:",
+    "answer": "Gas exchanging between the body and the environment"
+  },
+  {
+    "question": "Simply is a premium cooking oil brand & proud to be the only cooking oil brand recommended by Vietnam Heart Association.– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin ESimply will help to prevent bad cholesterol and protect your heart health. Which sentence is correct?",
+    "answer": "Gamma Oryzanol in Rice bran oil is preventing cholesterol to protect heart health"
+  },
+  {
+    "question": "As the two teams left the football ground, the 100,000 _______ gave them a standing ovation.",
+    "answer": "spectators"
+  },
+  {
+    "question": "What diseases can proper genital hygiene prevent?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "Mr. Black is working at home tomorrow so he _______ the technical report without any distractions.",
+    "answer": "can finish"
+  },
+  {
+    "question": "What type of virus causes influenza?",
+    "answer": "Influenza virus"
+  },
+  {
+    "question": "Zypo has signed a lease with the law firm _______ offices are on the third floor.",
+    "answer": "whose"
+  },
+  {
+    "question": "What measures help increase awareness about HIV prevention in the community?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "After meeting next week, Ms. Li _______ the project deadline.",
+    "answer": "will decide"
+  },
+  {
+    "question": "The little boy took an instant liking to his babysitter _______.",
+    "answer": "upon their first meeting"
+  },
+  {
+    "question": "I _______ my old school teacher last week.",
+    "answer": "visited"
+  },
+  {
+    "question": "These photos _______ many sweet memories of our trip to Hanoi last year.",
+    "answer": "caught"
+  },
+  {
+    "question": "Supervisors will not _______ approve time off during busy months.",
+    "answer": "generally"
+  },
+  {
+    "question": "Which statement has the closest meaning to this sentence: “Students are forbidden to bring their phones into the exam room.”?",
+    "answer": "On no account are students permitted to bring their phones into the exam room."
+  },
+  {
+    "question": "It is firmly believed that books are a primary means for _______ knowledge and information.",
+    "answer": "distributing"
+  },
+  {
+    "question": "Your task is helping potential customers identify your business. _______, you need to create a brand awareness.",
+    "answer": "In other words"
+  },
+  {
+    "question": "You shouldn’t lose heart; success often comes to those who are not _______ by failures.",
+    "answer": "put off"
+  },
+  {
+    "question": "Which substance in tobacco is primarily responsible for its addictive properties?",
+    "answer": "Nicotine"
+  },
+  {
+    "question": "West Airlines _______ fees for oversized items that are still within weight limitations.",
+    "answer": "waives"
+  },
+  {
+    "question": "The grant will be paid in three equal _______ over the course of the year.",
+    "answer": "instalments"
+  },
+  {
+    "question": "The brain is protected by:",
+    "answer": "All of the above answers"
+  },
+  {
+    "question": "Why is pre-conception counseling important?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which statement has the closest meaning to this sentence: The last time Tim played basketball with his brother was five months ago.",
+    "answer": "Tim hasn't played basketball with his brother for five months."
+  },
+  {
+    "question": "Simply is a premium cooking oil brand which has 4 variants: Simply 100% pure Soybean oil, Simply 100% pure Rice bran oil, Simply 100% pure Canola oil, Simply 100% pure Sunflower oil, all is good for heart. The statement: Simply is cooking oil brand with main functional benefit is good for health. Please choose True, False or not given for the information in statement above",
+    "answer": "TRUE"
+  },
+  {
+    "question": "Which of the following diets is best for your heart?",
+    "answer": "A diet high in fruits, vegetables, whole grains, and nuts"
+  },
+  {
+    "question": "Beth finally admitted _______ on the test.",
+    "answer": "to have cheated"
+  },
+  {
+    "question": "Which of these is a common side effect of cancer treatment?",
+    "answer": "Hair loss"
+  },
+  {
+    "question": "Can people with bipolar disorder live a normal life?",
+    "answer": "Yes, with proper treatment, the patient can control the disease and live a normal life"
+  },
+  {
+    "question": "Hepatitis B is primarily transmitted through",
+    "answer": "Blood and body fluids"
+  },
+  {
+    "question": "Which of the following substances, when consumed in excess, can increase blood pressure, a risk factor for heart disease?",
+    "answer": "Salt"
+  },
+  {
+    "question": "The scientists are working on a drug capable of _______ the spread of cancerous cells.",
+    "answer": "arresting"
+  },
+  {
+    "question": "We _______ on a field trip if the weather is fine this weekend.",
+    "answer": "will go"
+  },
+  {
+    "question": "Simply is a premium cooking oil brand that has 4 variants: Simply 100% pure Soybean oil, Simply 100% pure Rice bran oil, Simply 100% pure Canola oil, Simply 100% pure Sunflower oil, all is good for heart. If in 2022, Simply soybean oil has gained the award: the most chosen brand in 10 consecutive years. Which one is correct answer?",
+    "answer": "Non is correct"
+  },
+  {
+    "question": "His parents died when he was very young so he was _______ by his aunt.",
+    "answer": "brought up"
+  },
+  {
+    "question": "Those at high risk for hepatitis B should take which preventive measure?",
+    "answer": "Hepatitis B vaccination"
+  },
+  {
+    "question": "What is the most common symptom of eating unsafe food?",
+    "answer": "Nausea and vomiting"
+  },
+  {
+    "question": "What psychotherapy is commonly used to treat schizophrenia?",
+    "answer": "All of the above answers"
+  },
+  {
+    "question": "Twenty thousand years ago, a sheet of ice a thousand meters _______ covered part of Canada.",
+    "answer": "thick"
+  },
+  {
+    "question": "Solei said that the design for the building is _______ complete.",
+    "answer": "almost"
+  },
+  {
+    "question": "Which mosquito species transmits malaria?",
+    "answer": "Anopheles mosquitoes"
+  },
+  {
+    "question": "You should wear _______ to keep your hands warm. It’s very cold outside.",
+    "answer": "gloves"
+  },
+  {
+    "question": "After a slow start, the comedian soon _______ at his jokes.",
+    "answer": "had audience laughing"
+  },
+  {
+    "question": "What are the two main types of diabetes?",
+    "answer": "Type 1 and Type 2"
+  },
+  {
+    "question": "Ms. Suto says that important market trends become _______ when you use data analysis.",
+    "answer": "predictable"
+  },
+  {
+    "question": "Because Mr. Kumar is retiring in March, Carolex will need to _______ a new manager.",
+    "answer": "recruit"
+  },
+  {
+    "question": "What is the most effective method to prevent HIV transmission during sexual activity?",
+    "answer": "Using a condom"
+  },
+  {
+    "question": "Cedar Hill has a _______ for being a business-friendly workplace.",
+    "answer": "reputation"
+  },
+  {
+    "question": "You need to have both talent and luck to become a _______ singer.",
+    "answer": "well-known"
+  },
+  {
+    "question": "Which of the following treatments is commonly used to treat anxiety disorders?",
+    "answer": "All of the above answers"
+  },
+  {
+    "question": "_______ you love English, the better you can learn it.",
+    "answer": "The more"
+  },
+  {
+    "question": "Simply is a premium cooking oil brand & proud to be the only cooking oil brand recommended by Vietnam Heart Association.– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin E. Simply will help to prevent bad cholesterol and protect your heart health. Which sentence is correct?",
+    "answer": "Gamma Oryzanol in Simply Rice bran oil is preventing cholesterol to protect heart health"
+  },
+  {
+    "question": "What are the characteristic symptoms of pulmonary tuberculosis?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the most common cause of hypertension?",
+    "answer": "Consuming too much salt"
+  },
+  {
+    "question": "Simply is a premium cooking oil brand that has 4 variants: Simply 100% pure Soybean oil, Simply 100% pure Rice bran oil, Simply 100% pure Canola oil, Simply 100% pure Sunflower oil, all is good for heart. Which statement is correct answer?",
+    "answer": "Simply is cooking oil brand with main functional benefit is good for heart"
+  },
+  {
+    "question": "Which of the following is a risk factor for developing heart disease in young adults?",
+    "answer": "High cholesterol"
+  },
+  {
+    "question": "Which statement has the closest meaning to these sentences: “Mai left home to start an independent life. She realised how much her family meant to her.”?",
+    "answer": "Not until Mai had left home to start an independent life did she realise how much her family meant to her."
+  },
+  {
+    "question": "The Youth International Conference _______ by a lot of young people from around the world.",
+    "answer": "was attended"
+  },
+  {
+    "question": "Which type of fat is considered the healthiest for your heart?",
+    "answer": "Unsaturated fat"
+  },
+  {
+    "question": "Mai: “You’ve got a nice dress, Hoa.” Hoa: “_______.”",
+    "answer": "Thank you."
+  },
+  {
+    "question": "Thanks to highly _______ technology, scientists have made many important discoveries in different fields.",
+    "answer": "advanced"
+  },
+  {
+    "question": "How can harmful bacteria enter the body?",
+    "answer": "All of the above answers"
+  },
+  {
+    "question": "All salespeople will get a bonus this year, _______ in time for summer vacations.",
+    "answer": "just"
+  },
+  {
+    "question": "Whether he wins the game or not is of little _______ to me.",
+    "answer": "consequence"
+  },
+  {
+    "question": "A: “Did you have trouble finding the house?” B: “I hate to say it, but your directions _______.”",
+    "answer": "got us lost"
+  },
+  {
+    "question": "Daniel asked that _______ be fully in charge of approving all invoices.",
+    "answer": "himself"
+  },
+  {
+    "question": "Which of the following is NOT a risk factor for heart disease?",
+    "answer": "Eating a healthy diet"
+  },
+  {
+    "question": "Assistant managers are largely responsible for the daily operations in _______ departments.",
+    "answer": "their"
+  },
+  {
+    "question": "Which of the following foods contains a lot of saturated fat, which is not good for the heart?",
+    "answer": "Pork belly"
+  },
+  {
+    "question": "What are the characteristics of pathological anxiety?",
+    "answer": "All 3 ideas above"
+  },
+  {
+    "question": "The prize _______ to Xuan yesterday.",
+    "answer": "was awarded"
+  },
+  {
+    "question": "Which statement best combines these sentences: “Jane has some work to do this weekend. She can’t attend her sister’s wedding.”?",
+    "answer": "If Jane didn't have some work to do this weekend, she could attend her sister's wedding."
+  },
+  {
+    "question": "Several measures have been proposed to _______ the problem of unemployment among university graduates.",
+    "answer": "address"
+  },
+  {
+    "question": "Which of the following lifestyle changes can help manage asthma?",
+    "answer": "Reducing stress"
+  },
+  {
+    "question": "The registration fee is _______ refundable up to two weeks before the conference date.",
+    "answer": "fully"
+  },
+  {
+    "question": "Which of the following lifestyle changes can help reduce the risk of heart disease?",
+    "answer": "Engaging in regular physical activity"
+  },
+  {
+    "question": "The factory will be away _______ the city’s residential area to reduce noise and emissions.",
+    "answer": "from"
+  },
+  {
+    "question": "To prevent heart failure, a healthy diet should limit the excessive intake of which of the following?",
+    "answer": "Saturated fats and salt"
+  },
+  {
+    "question": "Which of the following beverages is best for heart health?",
+    "answer": "Green tea"
+  },
+  {
+    "question": "A symptom of anxiety disorder may be:",
+    "answer": "Excessive worry without a clear reason"
+  },
+  {
+    "question": "Among the following emergency contraceptive methods, which one is most effective in preventing pregnancy after unprotected sex within the first 72 hours and has the least impact on the menstrual cycle?",
+    "answer": "Emergency contraceptive pill containing ulipristal acetate."
+  },
+  {
+    "question": "Jesper Associates has _______ with 26 different food suppliers.",
+    "answer": "contracts"
+  },
+  {
+    "question": "What events can cause post-traumatic stress disorder?",
+    "answer": "All of the above answers"
+  },
+  {
+    "question": "When leaving the auditorium, please exit _______the doors on the lower level",
+    "answer": "through"
+  },
+  {
+    "question": "Asthma attacks are usually triggered by which of the following?",
+    "answer": "Physical exercise"
+  },
+  {
+    "question": "_______ invisible to the unaided eye, ultraviolet light can be detected in a number of ways.",
+    "answer": "Although"
+  },
+  {
+    "question": "What is the recommended minimum amount of moderate-intensity physical activity per week for adults to help prevent obesity?",
+    "answer": "150 minutes"
+  },
+  {
+    "question": "Simply is a premium cooking oil brand & proud to be the only cooking oil brand recommended by Vietnam Heart Association.– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin ESimply will help to prevent bad cholesterol and protect your hearrt health. Which sentence is correct?",
+    "answer": "Simply has 4 variants"
+  },
+  {
+    "question": "Which of the following foods is high in omega-3 fatty acids, beneficial for heart health?",
+    "answer": "Salmon"
+  },
+  {
+    "question": "Among the following emergency contraceptive methods, which one is most effective in preventing pregnancy after unprotected sex within the first 72 hours and has the least impact on the menstrual cycle?",
+    "answer": "Emergency contraceptive pill containing ulipristal acetate"
+  },
+  {
+    "question": "_______ our project was unnecessary, we would not have invested in it.",
+    "answer": "Had we thought"
+  },
+  {
+    "question": "What is the main cause of worm infections in children?",
+    "answer": "Playing on dirty ground and not washing hands before eating"
+  },
+  {
+    "question": "It’s time he acted like a _______adult and stopped blaming others for his wrongdoings",
+    "answer": "responsible"
+  },
+  {
+    "question": "New emissions standards have forced Ford Auto to modify the process of engine_______.",
+    "answer": "construction"
+  },
+  {
+    "question": "Two complete strangers drove her car off before her _______ eyes.",
+    "answer": "very"
+  },
+  {
+    "question": "While he is not enthusiastic about the suggestions, Mr. Shang _______them.",
+    "answer": "will consider"
+  },
+  {
+    "question": "It is imperative that the password of every online account _______ confidential.",
+    "answer": "needs to be kept"
+  },
+  {
+    "question": "He hopes that she will be happy with this _______ ring.",
+    "answer": "nice small Indonesian"
+  },
+  {
+    "question": "Computerization of medical records _______ increases a doctor’s ability to diagnose and treat patients.",
+    "answer": "greatly"
+  },
+  {
+    "question": "What should be done to avoid cross-contamination when preparing food?",
+    "answer": "Wash knives and cutting boards between uses"
+  },
+  {
+    "question": "The new printer works more _______ than the old model did.",
+    "answer": "quickly"
+  },
+  {
+    "question": "How is the influenza virus primarily transmitted?",
+    "answer": "Respiratory route"
+  },
+  {
+    "question": "We like living in the countryside _______ we want to be close to nature",
+    "answer": "because"
+  }
+]

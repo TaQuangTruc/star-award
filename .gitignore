@@ -1,0 +1,8 @@
+# Loại bỏ node_modules
+node_modules/
+
+# Loại bỏ các file log
+*.log
+
+# Loại bỏ file .env chứa các biến môi trường
+.env
