@@ -6,3 +6,4 @@ node_modules/
 
 # Loại bỏ file .env chứa các biến môi trường
 .env
+

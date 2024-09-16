@@ -3,7 +3,7 @@ const puppeteer = require("puppeteer");
 const { delay, readFile, readJsonFile, log } = require("./helper");
 
 const BASED = 500;
-const indexFile = 6; //************************************************Chỉnh ở đây
+const indexFile = 6; // Chỉnh ở đây
 
 // Read the student and question bank files
 const accounts = readFile(`output/account_${indexFile}.txt`);
@@ -12,23 +12,26 @@ const questionBank = readJsonFile("bankQuestion/questionBank.txt");
 (async () => {
   let index = 0;
   let count = 1;
-  const browser = await puppeteer.launch({ headless: true });
 
   while (index < accounts.length) {
     const account = accounts[index];
     const password = "QWE123$%^";
 
     let page;
+    let browser; // Khởi tạo lại trình duyệt mỗi lần có lỗi
+
     if (index == 0) {
       console.log(`Bắt đầu thi ${accounts.length} tài khoản`);
     }
 
     try {
+      // Khởi tạo trình duyệt mới mỗi lần thi
+      browser = await puppeteer.launch({ headless: false });
+      page = await browser.newPage();
+
       console.log(
         ` *** Bắt đầu lượt thi thứ ${index + 1}. Sinh viên thực hiện ${account}`
       );
-
-      page = await browser.newPage();
 
       // Đợi trang login tải xong
       await page.goto("https://starawards.vn/login", {
@@ -151,17 +154,18 @@ const questionBank = readJsonFile("bankQuestion/questionBank.txt");
       count++;
     } catch (error) {
       console.log(`Xảy ra lỗi trong quá trình thi của sinh viên ${account}`);
-      log("failure", account)
+      log("failure", account);
       console.log(error);
-      continue;
     } finally {
       index++;
       if (page) {
         await page.close();
       }
+      if (browser) {
+        await browser.close(); // Đóng trình duyệt sau mỗi vòng lặp
+      }
     }
   }
 
-  await browser.close();
   console.log("*** ĐÃ HOÀN TẤT ****");
 })();
