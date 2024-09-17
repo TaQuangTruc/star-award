@@ -3,18 +3,23 @@ const puppeteer = require("puppeteer");
 const { delay, readFile, readJsonFile, log } = require("./helper");
 
 const BASED = 500;
-const indexFile = 6; // Chỉnh ở đây
+const indexFile = 3; // Chỉnh ở đây
 
 // Read the student and question bank files
 const accounts = readFile(`output/account_${indexFile}.txt`);
 const questionBank = readJsonFile("bankQuestion/questionBank.txt");
 
+const notFound = readFile(`not_found.log`);
+const participatedAccount = readFile(`participated.log`);
+const success = readFile(`success.log`);
+
 (async () => {
-  let index = 326;
+  let index = 0;
   let count = 1;
 
   while (index < accounts.length) {
     const account = accounts[index];
+
     const password = "QWE123$%^";
 
     let page;
@@ -25,6 +30,13 @@ const questionBank = readJsonFile("bankQuestion/questionBank.txt");
     }
 
     try {
+      if (
+        notFound
+          .concat(participatedAccount)
+          .concat(success)
+          .find((x) => account == x)
+      )
+        continue;
       // Khởi tạo trình duyệt mới mỗi lần thi
       browser = await puppeteer.launch();
       page = await browser.newPage();
@@ -63,9 +75,23 @@ const questionBank = readJsonFile("bankQuestion/questionBank.txt");
       const loginFailed = await page.$("div.alert-danger.text-red-600");
 
       if (loginFailed) {
-        log("not_found", account);
+        log("not_found.log", account);
         continue;
       }
+
+      await page.goto("https://starawards.vn/profile", {
+        waitUntil: "networkidle0",
+      });
+
+      const participated = await page.$("table tbody tr");
+      if (participated) {
+        log("participated.log", account);
+        continue;
+      }
+
+      await page.goto("https://starawards.vn/test", {
+        waitUntil: "networkidle0",
+      });
       // Đợi và nhấn nút "Show Mock Test"
       await page.waitForSelector(".btnShowMockMultipleTest", { visible: true });
       await Promise.all([
@@ -139,7 +165,7 @@ const questionBank = readJsonFile("bankQuestion/questionBank.txt");
           const confirmSubmit = "#testFormBtn";
           await page.waitForSelector(confirmSubmit, { visible: true });
           await page.click(confirmSubmit);
-          log("success.txt", account);
+          log("success.log", account);
           console.log(`${account} đã nộp bài`);
         } else {
           // Chuyển đến câu hỏi tiếp theo
