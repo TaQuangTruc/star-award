@@ -31,7 +31,6 @@ function excelToArray(filePath) {
 }
 
 
-
 function delay(time) {
   return new Promise(function (resolve) {
     setTimeout(resolve, time);
@@ -166,5 +165,6 @@ module.exports = {
   getRandomStudentId,
   getGraduationYear,
   getRandomBirthday,
-  excelToArray
+  excelToArray,
+  getRandomInt
 };
