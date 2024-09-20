@@ -3,7 +3,7 @@ const puppeteer = require("puppeteer");
 const { delay, readFile, readJsonFile, log } = require("./helper");
 
 const BASED = 500;
-const indexFile = 3; // Chỉnh ở đây
+const indexFile = 5; // Chỉnh ở đây
 
 // Read the student and question bank files
 const accounts = readFile(`output/account_${indexFile}.txt`);

@@ -48,13 +48,22 @@ const splitFile = (dataFile) => {
         }
 
         const lines = data.split('\n');
+        const uniqueLines = new Set();  // Set để lưu các dòng duy nhất
+        const filteredLines = lines.filter(line => {
+            if (!uniqueLines.has(line)) {
+                uniqueLines.add(line);
+                return true; // Giữ lại dòng nếu nó chưa xuất hiện
+            }
+            return false; // Bỏ qua dòng nếu nó đã xuất hiện
+        });
+
         const linesPerFile = 1000;
         let fileCount = 0;
         let fileIndex = 1;
 
-        for (let i = 0; i < lines.length; i += linesPerFile) {
+        for (let i = 0; i < filteredLines.length; i += linesPerFile) {
             fileCount++;
-            const chunk = lines.slice(i, i + linesPerFile).join('\n');
+            const chunk = filteredLines.slice(i, i + linesPerFile).join('\n');
             const outputFile = path.join(outputFolder, `account_${fileIndex}.txt`);
 
             // Ghi đè lên file cũ
