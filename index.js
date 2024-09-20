@@ -209,7 +209,6 @@ const generateStudentData = async () => {
     browser = await puppeteer.launch({ headless: false });
     page = await browser.newPage();
 
-    const student = generateStudentData();
     try {
       console.log(`*** Bắt đầu lần thứ ${index}/${numberAccount}`);
 
