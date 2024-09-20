@@ -1,16 +1,11 @@
 ****** Hướng dẫn chạy ******
 B1: npm i 
-Xóa file not_fount
-Xóa file failure
-Xóa file success 
-
-B2: Lên sheet xem còn số nào trống, chỉnh dòng 6 file test.js thành số trống
-B3: node test.js để chạy
+B2: node index.js 1000      //Tạo và thi 1000 account để chạy
 
 ****************************
-
-
-Nộp lại file success, failure lên folder 
-https://drive.google.com/drive/folders/1FzgbOChW_UAbrIPWeFhKfgVNn484dDdr
+Lưu ý:
+    - Mssv và email khi tạo tài khoản thành công sẽ được lưu vào file student.txt
+    - Tài khoản đã lưu thành công sẽ lưu vào success.txt
+    - Tài khoản thi thất bại sẽ lưu vào error.txt
 
 
