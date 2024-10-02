@@ -106,8 +106,8 @@ function getRandomStudentId() {
   const index = getRandomInt(0, prefixs.length - 1);
 
   const prefix = prefixs[index];
-  const postfix = getRandomInt(1, 9000);
-  const formattedPostfix = postfix.toString().padStart(4, '0');
+  const postfix = getRandomInt(1, 900000);
+  const formattedPostfix = postfix.toString().padStart(6, '0');
 
   const mssv = `${prefix}${formattedPostfix}`
   return mssv;
