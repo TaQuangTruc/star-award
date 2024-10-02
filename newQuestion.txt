@@ -1,0 +1,259 @@
+{
+  "question": "Simply is a premium cooking oil brand & proud to be the only cooking oil brand recommended by Vietnam Heart Association.– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin ESimply will help to prevent bad cholesterol and protect your hearrt health. Which sentense is correct?",
+  "answers": [
+    "Simply has 4 variants: Soybean, rice brain, sunflower, canola oil",
+    "Simply has 4 variants: Soya, rice bran, sunflower, canola oil",
+    "Simply has 4 variants: Soya, rice bran, sunflower, sesame oil",
+    "None is correct"
+  ]
+}
+{
+  "question": "Simply is a premium cooking oil brand that has 4 variants: Simply 100% pure Soybean oil, Simply 100% pure Rice bran oil, Simply 100% pure Canola oil, Simply 100% pure Sunflower oil, all is good for heart.The statement: Simply is pure cooking oil brand with main functional benefit is good for heartPlease choose True, False or not given for the information in statement above:",
+  "answers": [
+    "TRUE",
+    "FALSE",
+    "Not given"
+  ]
+}
+{
+  "question": "Simply is a premium cooking oil brand which has 4 variants– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in _____– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin EAll is good for heart.Complete the sentense",
+  "answers": [
+    "Gamma Orizanol",
+    "Gama Oryzanol",
+    "Gamma Oryzanol",
+    "Non is correct"
+  ]
+}
+{
+  "question": "The Bistro’s menu has a _______variety of seafood items than the Pavilion’s.",
+  "answers": [
+    "widely",
+    "wider",
+    "widest",
+    "wide"
+  ]
+}
+{
+  "question": "Simply is a premium cooking oil brand which has 4 variants– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in ____– Simply 100% pure Sunflower oil ‘s rich in natural vitamin EAll is good for heart.Complete the sentense",
+  "answers": [
+    "Unsaturated fat",
+    "Fatty acid",
+    "Saturated fat",
+    "All is correct"
+  ]
+}
+{
+  "question": "It is firmly believed that books are a primary means for _______ knowledge and information",
+  "answers": [
+    "distributing",
+    "classifying",
+    "adopting",
+    "inventing"
+  ]
+}
+{
+  "question": "Simply is a premium cooking oil brand that has 4 variants: Simply 100% pure Soybean oil, Simply 100% pure Rice bran oil, Simply 100% pure Canola oil, Simply 100% pure Sunflower oil, all is good for heart.The statement: Simply is pure cooking oil brand with main functional benefit is good for heartPlease choose True, False or not given for the information in statement above:",
+  "answers": [
+    "TRUE",
+    "FALSE",
+    "Not given"
+  ]
+}
+{
+  "question": "I have never read _______ before.",
+  "answers": [
+    "so good an article",
+    "such good article",
+    "so good article",
+    "such good an article"
+  ]
+}
+{
+  "question": "His choice of future career is quite similar _______ mine.",
+  "answers": [
+    "to",
+    "with",
+    "at",
+    "for"
+  ]
+}
+{
+  "question": "Simply is a premium cooking oil brand which has 4 variants– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin ESimply is well-known for its ____ cooking oil.Complete the sentense",
+  "answers": [
+    "healthy heart",
+    "heart-healthy",
+    "heart health",
+    "Non is correct"
+  ]
+}
+{
+  "question": "Simply is a premium cooking oil brand which has 4 variants– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin ESimply will help to prevent bad cholesterol and protect your ____ health. Complete the sentense",
+  "answers": [
+    "Heart",
+    "Brain",
+    "Both are correct",
+    "None is correct"
+  ]
+}
+{
+  "question": "Simply is a premium cooking oil brand & proud to be the only cooking oil brand recommended by Vietnam Heart Association.– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin ESimply will help to prevent bad cholesterol and protect your hearrt health. Which sentense is correct?",
+  "answers": [
+    "Omega 3-6-9 in Simply Soybean oil is preventing cholesterol to protect heart health",
+    "Gamma Oryzanol in Simply Rice bran oil is preventing cholesterol to protect heart health",
+    "Both are correct",
+    "None is correct"
+  ]
+}
+{
+  "question": "Simply is a premium cooking oil brand which has 4 variants– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in _____– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin EAll is good for heart.Complete the sentense",
+  "answers": [
+    "Gamma Orizanol",
+    "Gama Oryzanol",
+    "Gamma Oryzanol",
+    "Non is correct"
+  ]
+}
+{
+  "question": "Simply is a premium cooking oil brand & proud to be the only cooking oil brand recommended by Vietnam Heart Association.– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin ESimply will help to prevent bad cholesterol and protect your hearrt health. Which sentense is correct?",
+  "answers": [
+    "Vitamin E in Simply Sunflower oil is preventing cholesterol to protect heart health",
+    "Gamma Oryzanol in Simply Rice bran oil is preventing cholesterol to protect heart health",
+    "Both are correct",
+    "None is correct"
+  ]
+}
+{
+  "question": "A: “Did you have trouble finding the house?”B: “I hate to say it, but your directions _______.”",
+  "answers": [
+    "were losing us",
+    "had lost us",
+    "lost us",
+    "got us lost"
+  ]
+}
+{
+  "question": "Simply is a premium cooking oil brand & proud to be the only cooking oil brand recommended by Vietnam Heart Association.– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin ESimply will help to prevent bad cholesterol and protect your hearrt health. Which sentense is correct?",
+  "answers": [
+    "Omega 3-6-9 in Simply Soybean oil is preventing cholesterol to protect heart health",
+    "Gamma Oryzanol in Simply Rice bran oil is preventing cholesterol to protect heart health",
+    "Both are correct",
+    "None is correct"
+  ]
+}
+{
+  "question": "The presenter started his speech with a few _______jokes to build rapport with the audience",
+  "answers": [
+    "light-hearted",
+    "whole-hearted",
+    "soft-hearted",
+    "kind-hearted"
+  ]
+}
+{
+  "question": "Ann: “I think children should be paid for doing the housework.”Peter: “ _______. It’s their duty in the family.”",
+  "answers": [
+    "I don't think so",
+    "You're exactly right",
+    "That's what I think",
+    "There's no doubt about it"
+  ]
+}
+{
+  "question": "The house looks quite different now because they have made _______ changes to it",
+  "answers": [
+    "small",
+    "normal",
+    "tiny",
+    "major"
+  ]
+}
+{
+  "question": "Simply is a premium cooking oil brand which has 4 variants– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in ____– Simply 100% pure Sunflower oil ‘s rich in natural vitamin EAll is good for heart.Complete the sentense",
+  "answers": [
+    "Unsaturated fat",
+    "Fatty acid",
+    "Saturated fat",
+    "All is correct"
+  ]
+}
+{
+  "question": "Simply is a premium cooking oil brand & proud to be the only cooking oil brand recommended by Vietnam Heart Association.– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin ESimply will help to prevent bad cholesterol and protect your hearrt health. Which sentense is correct?",
+  "answers": [
+    "Simply is good for heart brand",
+    "Simply has 4 variants",
+    "Both are correct",
+    "None is correct"
+  ]
+}
+{
+  "question": "What diseases can proper genital hygiene prevent",
+  "answers": [
+    "Urinary tract infection",
+    "Odor",
+    "Vaginitis",
+    "All of the above"
+  ]
+}
+{
+  "question": "The little boy took an instant liking to his babysitter_______.",
+  "answers": [
+    "upon their first meeting",
+    "before he first met her",
+    "prior to their first meeting",
+    "as soon as he meets her"
+  ]
+}
+{
+  "question": "The presenter started his speech with a few _______jokes to build rapport with the audience",
+  "answers": [
+    "light-hearted",
+    "whole-hearted",
+    "soft-hearted",
+    "kind-hearted"
+  ]
+}
+{
+  "question": "Simply is a premium cooking oil brand which has 4 variants– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in _____– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin EAll is good for heart.Complete the sentense",
+  "answers": [
+    "Gamma Orizanol",
+    "Gama Oryzanol",
+    "Gamma Oryzanol",
+    "Non is correct"
+  ]
+}
+{
+  "question": "Simply is a premium cooking oil brand & proud to be the only cooking oil brand recommended by Vietnam Heart Association.– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin ESimply will help to prevent bad cholesterol and protect your hearrt health. Which sentense is correct?",
+  "answers": [
+    "Vitamin E in Simply Sunflower oil is preventing cholesterol to protect heart health",
+    "Gamma Oryzanol in Simply Rice bran oil is preventing cholesterol to protect heart health",
+    "Both are correct",
+    "None is correct"
+  ]
+}
+{
+  "question": "Simply is a premium cooking oil brand which has 4 variants– Simply 100% pure Soybean oil’s rich in Omega 3-6-9– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin ESimply will help to prevent bad cholesterol and protect your ____ health. Complete the sentense",
+  "answers": [
+    "Heart",
+    "Brain",
+    "Both are correct",
+    "None is correct"
+  ]
+}
+{
+  "question": "Simply is a premium cooking oil brand which has 4 variants– Simply 100% pure Soybean oil’s rich in ____– Simply 100% pure Rice bran oil’s rich in Gamma Oryzanol– Simply 100% pure Canola oil’s rich in unsaturated fat– Simply 100% pure Sunflower oil ‘s rich in natural vitamin EAll is good for heart.Complete the sentense",
+  "answers": [
+    "Omega 3-6-8",
+    "Omega 3-6-9",
+    "Omega 3-6-7",
+    "Non is correct"
+  ]
+}
+{
+  "question": "The scientists are working on a drug capable of_______the spread of cancerous cells.",
+  "answers": [
+    "seizing",
+    "arresting",
+    "catching",
+    "grasping"
+  ]
+}

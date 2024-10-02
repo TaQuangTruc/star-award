@@ -165,7 +165,7 @@ const test = async (page, student) => {
         await page.click(laraNextQuestionItemDot);
       }
 
-      await delay(BASED * getRandomInt(10, 20));
+      await delay(BASED);
     }
 
     log("success.txt", student.email);
@@ -206,7 +206,7 @@ const generateStudentData = async () => {
   let index = 1;
 
   while (index <= numberAccount) {
-    browser = await puppeteer.launch({ headless: false });
+    browser = await puppeteer.launch();
     page = await browser.newPage();
 
     try {
