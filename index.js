@@ -165,7 +165,7 @@ const test = async (page, student) => {
         await page.click(laraNextQuestionItemDot);
       }
 
-      await delay(BASED);
+      await delay(BASED * getRandomInt(10, 20));
     }
 
     log("success.txt", student.email);
